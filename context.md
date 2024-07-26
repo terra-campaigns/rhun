@@ -10,12 +10,16 @@ The world is a fork of Tolkien's **Middle Earth**. Set in the **4th Age**, `xxx`
 
 People believe there is pure evil that lives in the depths of the world.
 
+- [ ] Roll a Nameless thing TOR 232
+
 ## Main empires
 
 The main empires of the world are descendent kingdoms from the late 3rd Age of Middle Earth.
 The elves have mostly left to the undying lands.
 
 # Sea of Rhûn {#seaofrhun}
+
+> See [video](https://youtu.be/lAY-NjLrCuY?si=DcWHLwOtNXRxASlX) about Rhûn
 
 The Sea of [Rhûn](https://lotr.fandom.com/wiki/Sea_of_Rh%C3%BBn) was located in the west of the land of Rhûn, which was east of Rhovanion and north of Mordor.
 The sea also contained a wooded island within the Sea.
@@ -26,22 +30,29 @@ The [Kine of Araw](https://lotr.fandom.com/wiki/Kine_of_Araw "Kine of Araw"), w
 
 ![](https://api2.inkarnate.com/api/embedScenes/oy9y3X/previewImage)
 
+Add hills on the SE.
+
 Six major geographical features:
 
 - Highlands (unnamed)
 - Neldoreth (forest)
 - Sea of Rhûn
-- Woden Island (megaplex - ancient structure)
+- Wooden Island (megaplex - ancient structure)
 - Gardens of Dorwinion
-- Swamp in south of Sea? (Chosen from WWN 122)
+- TBD in campaign.
 
 Six major nations or groups `roll 2 thematic elements WWN 126 for each`
 
-- Dorwinion
-- Eastlings - maybe divide in 3 (N, NE, SE)
+- `2 good tags` Dorwinion, under the banner of Gondor/Rohan - Northmen?
+- [Easterlings](https://lotr.fandom.com/wiki/Easterlings) - maybe divide in 3 (N, NE, SE) `1 bad tag, one random` some are good and were good men, or influenced by the blue wizards
 	- N
 	- NE
 	- SE
-- One in the mountains and/or swamps?
-- One in the forest
+- `1 good tag, 1 bad` One in the mountains? West was conquered by Gondor, dwarves re establishing?
+- `2 bad tags` Subterranean ruins? Last bastion of orcs?
 
+Most dwarves fled to the west in the end of the 3rd age, and there are hardly any elves in Middle Earth. This leaves Rhûn a mostly human region, with evil dwarves and orcs.
+
+The Blue Wizards have turned the corrupted minds of Easterlings that supported Sauron. Lots of internal strife in the region.
+
+One in the forest - what lives in the forest? To be defined in campaign.
