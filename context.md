@@ -10,8 +10,6 @@ The world is a fork of Tolkien's **Middle Earth**. Set in the **4th Age**, `xxx`
 
 People believe there is pure evil that lives in the depths of the world.
 
-- [ ] Roll a Nameless thing TOR 232
-
 ## Main empires
 
 The main empires of the world are descendent kingdoms from the late 3rd Age of Middle Earth.
@@ -38,8 +36,8 @@ Six major geographical features:
 - Neldoreth (forest)
 - Sea of Rhûn
 - Wooden Island (megaplex - ancient structure)
-- Gardens of Dorwinion
-- TBD in campaign.
+- Gardens of Dorwinion (ancient farmland)
+- Arratu/Badlands?
 
 Six major nations or groups `roll 2 thematic elements WWN 126 for each`
 
@@ -49,7 +47,7 @@ Six major nations or groups `roll 2 thematic elements WWN 126 for each`
 	- NE
 	- SE
 - `1 good tag, 1 bad` One in the mountains? West was conquered by Gondor, dwarves re establishing?
-- `2 bad tags` Subterranean ruins? Last bastion of orcs?
+- `2 bad tags` Badlands + Subterranean ruins? Last bastion of orcs?
 
 Most dwarves fled to the west in the end of the 3rd age, and there are hardly any elves in Middle Earth. This leaves Rhûn a mostly human region, with evil dwarves and orcs.
 
