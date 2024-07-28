@@ -45,26 +45,23 @@ The [Kine of Araw](https://lotr.fandom.com/wiki/Kine_of_Araw "Kine of Araw"), w
 
 ![](https://api2.inkarnate.com/api/embedScenes/oy9y3X/previewImage)
 
-Add hills on the SE.
+**Major geographical features**
 
-Six major geographical features:
+- **Ryxgla**: mountain chain in the Southwest
+- **Neldoreth**: beech forest in the Norteast
+- **Sea of Rhûn**: inland see
+- **Wooden Island**: manmade megaplex, ancient structure within the inland sea
+- **Gardens of Dorwinion**: farmland in the Nortwest
+- **Rhûn's Pit**: orc made pit / badlands in the East.
 
-- Ryxgla (mountains)
-- Neldoreth (forest)
-- Sea of Rhûn
-- Wooden Island (megaplex - ancient structure)
-- Gardens of Dorwinion (ancient farmland)
-- Arratu/Badlands?
+**Major nations or groups** `roll 2 thematic elements WWN 126 for each`
 
-Six major nations or groups `roll 2 thematic elements WWN 126 for each`
+- Dorwinion: Under the banner of Gondor/Rohan (maybe Northmen - `2 good tags`)
+- [Easterlings](https://lotr.fandom.com/wiki/Easterlings): 3 different human groups (still have lingering influence from the dark lords, some are good and were good men, or influenced by the blue wizards `1 bad tag, one random each`)
+    - Orange / Blue / Red / Light green
+- Eastern Dwarves: they came back from the West and reestablished in the mountains (`1 good tag, 1 bad`)
+- Orcs: not a nation, but an important antagonist group `2 bad tags`
 
-- `2 good tags` Dorwinion, under the banner of Gondor/Rohan - Northmen?
-- [Easterlings](https://lotr.fandom.com/wiki/Easterlings) - maybe divide in 3 (N, NE, SE) `1 bad tag, one random` some are good and were good men, or influenced by the blue wizards
-	- N
-	- NE
-	- SE
-- `1 good tag, 1 bad` One in the mountains? West was conquered by Gondor, dwarves re establishing?
-- `2 bad tags` Badlands + Subterranean ruins? Last bastion of orcs?
 
 Most dwarves fled to the west in the end of the 3rd age, and there are hardly any elves in Middle Earth. This leaves Rhûn a mostly human region, with evil dwarves and orcs.
 
