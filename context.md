@@ -6,10 +6,9 @@ The world is a fork of Tolkien's **Middle Earth**. Set in the **4th Age**, `xxx`
 
 ![](https://i.imgur.com/xRPrU40.png)
 
-## Darkness evil {#evil}
+## Ryxgla Gruk'mog {#grukmog}
 
-
-## Ryxgla Gruk'mog: The Watcher in the Deep
+> The Watcher in the Deep
 
 Ryxgla Mb'hoth was the name given to this ancient evil.
 Among the orcs, it is known as Ryxgla Gruk'mog, a name derived from the words "Gruk" (knowledge and mind) and "mog" (greatness).
@@ -50,7 +49,7 @@ Add hills on the SE.
 
 Six major geographical features:
 
-- Highlands (unnamed)
+- Ryxgla (mountains)
 - Neldoreth (forest)
 - Sea of Rhûn
 - Wooden Island (megaplex - ancient structure)
