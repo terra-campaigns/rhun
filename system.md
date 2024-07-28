@@ -1,6 +1,6 @@
 # Terra System's Rhûn {#system}
 
-This section details how to play **Shadows of Rhûn**, an [One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
+This section details how to play **Shadows of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
 The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://efsalvarenga.github.io/terraSystem/) separately.
 
 #### Taxonomy {-}
@@ -26,6 +26,8 @@ A text version of the character sheet is available here.
 You are defined by an *Archetype*, which encapsulates your background, concept and role within the narrative.
 Each *Archetype* should offer an immediate grasp of your identity and behaviours.
 It is expected you will evolve beyond these initial *Archetypes* towards unique narratives.
+
+< ADAPT TABLE BELOW FOR RHUN>
 
 | Archetype      | Description                         | Skill Groups (Optional)    |
 | :------------- | :---------------------------------- | :------------------------- |
@@ -135,6 +137,8 @@ You spend *Ego* when you push beyond yourself in *Risky Actions*.
 When your *Ego* reaches $0$ you are lost somehow.
 With the GM determine how your last scene goes.
 
+< ADAPT BELOW FOR RHUN>
+
 Any time you *Fail* in a *Risky Action* you may choose to suffer a **Panic Event**.
 When you do so, roll your Ego die ($1d$) and consult the table below.
 
@@ -171,6 +175,8 @@ You also gain $+1$ *Experience* for each new *Condition* you develop.
 
 Whenever it is narratively coherent, you may spend *Experience* equal to $2\times$ your current number of *Advancements* to gain a new one.
 
+< ADAPT TABLE BELOW FOR RHUN>
+
 |                |                                                                                            |
 | -------------- | ------------------------------------------------------------------------------------------ |
 | Asceticism     | You do not take $-1d$ when rolling for *Grit* while poorly fed.                            |
@@ -196,6 +202,8 @@ Whenever it is narratively coherent, you may spend *Experience* equal to $2\time
 The list below can be used as a starting point.
 With the GM you can adapt these or create new ones.
 
+< ADAPT TABLE BELOW FOR RHUN>
+
 - **Fear-Driven Vigilance**: Fear instills a heightened sense of vigilance, making you more cautious. In situations related to the your fear, you have $-1d$
 - **Obsessive Focus**: Your single-minded pursuit leads to significant personal development and expertise in a specific area, in detriment of others. Gain $+1$ Point in one *Skill* and $-1$ Point in two other *Skills*.
 - **Moral Reservations**: Your steadfast morality leads to a firm stance on certain issues. Actions that go against your moral code have $-1d$.
@@ -215,9 +223,7 @@ The following is a list of equipment tags.
 |    $-1d$    | **Improvised**                                    |
 |    $-1e$    | **Inefective**: Disadvataged *Effect* is applied. |
 | $\emptyset$ | **Base**: No modifications.                       |
-|    $s+$     | **Slaughter**: *Effect* die explodes $5+$.        |
 |    $+1e$    | **Effective**: Advantaged *Effect* is applied.    |
-|    $+1d$    | **Heavy Firepower**: Add a *Light Die*.           |
 
 The table below contains example weapons, and may be expanded with the GM.
 For ranges, use what is narratively appropriate.
