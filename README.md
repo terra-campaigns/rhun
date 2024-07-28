@@ -17,4 +17,19 @@ PR needs to be approved by another contributor.
 - If you dont have something like Obsidian Sync, edits on the fly can also be done using GitHub's webapp.
 - When adding images, do not add them directly to the repository, to keep it light. Use Imgur and html links instead. Obsidian has a [plugin](https://github.com/gavvvr/obsidian-imgur-plugin) that does that for you.
 
+## Sandbox
+
+The game will use sandbox procedural generation.
+The following books have good procedures for the theme.
+
+- Worlds Without Number (closed access [link](https://drive.google.com/open?id=163ApcuSI2q4oPTYLFyYn6Jxa1F-hS2gF&usp=drive_fs))
+	- Regional geography, polities and history
+	- Ruins and dungeons
+	- Wilderness
+	- Social groups, communities and courts
+- Atlas of Latter Earth (closed access [link](https://drive.google.com/open?id=1bOrZFAV3zSfMZnHomFQgXuExUyV44hDt&usp=drive_fs))
+	- People aspirations, problems and schemes
+- Silent Legions (closed access [link](https://drive.google.com/open?id=1CexCpDNKNSMNnkGgDNrVne1gG-03L5dm&usp=drive_fs))
+	- Powerful creatures of darkness
+	- Cults 
 
