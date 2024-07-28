@@ -1,0 +1,19 @@
+---
+title: "Shadows of Rhûn"
+# author: "Estevao Alvarenga"
+# date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [book.bib]
+description: "These are Shadows of Rhûn materials."
+link-citations: yes
+github-repo: efsalvarenga/rhun
+url: https://efsalvarenga.github.io/arrival/
+favicon: "imgs/favicon.ico"
+cover-image: "imgs/cover.png"
+---
+
+# Arrival {-}
+
+![](imgs/cover.png)
+
