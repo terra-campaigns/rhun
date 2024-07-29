@@ -85,7 +85,7 @@ In certain conditions, you might permanently lose *Attribute* points, this is di
 Scuff has an **Attunement** *Attribute* rating of $3$ (read horizontally).
 They roll $3d$ when performing a Risky Action related to **Attunement**.
 They also have **Influence** $0$ (horizontally), so they roll $0d$ (i.e. no chance if no advantage is found).
-If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve/Willpower** *Save* rating (read vertically).
+If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve** *Save* rating (read vertically).
 
 ### Grit & Ego
 
@@ -220,21 +220,23 @@ The following is a list of equipment tags.
 The table below contains example weapons, and may be expanded with the GM.
 For ranges, use what is narratively appropriate.
 
-|    Tags     | Melee Examples               | Ranged Examples      |
-| :---------: | ---------------------------- | -------------------- |
-|    $-1d$    | **Unarmed**                  | Throwing **Objects** |
-|    $-1e$    | Small **Knives**             | Throwing **Knives**  |
-| $\emptyset$ | Short **Swords** & **Maces** | Short **Bow**        |
-|    $+1e$    | Long **Swords** & **Lances** | Long **Bow**         |
+|    Tags     | Melee Examples          | Ranged Examples        |
+| :---------: | ----------------------- | ---------------------- |
+|    $-1d$    | **Unarmed**             | Throwing **Objects**   |
+|    $-1e$    | Dagger, Sword           | Short Spear, Bow       |
+| $\emptyset$ | Club, Long Sword, Axe   | Great Spear, Great Bow |
+|    $+1e$    | Long/Great Axe, Mattock |                        |
 
 Armours act as buffers when you take damage from *Challenges*.
 Subtract the armour modifier from the *Effect* before reducing your *Grit*
 
-| Armour     | Modifier | Details                                            |
-| ---------- | :------: | -------------------------------------------------- |
-| **Light**  |   $-1e$  |                                                    |
-| **Heavy**  |   $-2e$  | $-1d$ to run, observe, sneak, swim, etc.           |
-| **Shield** |   $-1e$  | Can be sacrificed to completely avoid an *Effect*. |
+| Armour      | Modifier | Details                                            |
+| ----------- | :------: | -------------------------------------------------- |
+| **Leather** |   $-1e$  |                                                    |
+| **Mail**    |   $-2e$  | $-1d$ to run, observe, sneak, swim, etc.           |
+| **Shield**  |   $-1e$  | Can be sacrificed to completely avoid an *Effect*. |
+
+![](https://i.imgur.com/AO3ftys.png)
 
 ## Rules
 
