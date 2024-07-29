@@ -10,6 +10,12 @@ The **Terran Engine** is self contained in this section, and will not require re
 - Meta game concepts, stats and currencies are marked in *italic*.
 - Book references are marked in `code`, they might be accompanied by page ranges.
 
+#### Books {-}
+
+| Reference | Book and closed link                                                                            |
+| --------- | ----------------------------------------------------------------------------------------------- |
+| `ToR`     | [The One Ring](https://drive.google.com/open?id=1hinl5ir_Lj91TAH2T1p44UgCLU497qti&usp=drive_fs) |
+
 ## Characters
 
 1. With the other players, define a cohesive group concept.
@@ -23,32 +29,18 @@ A text version of the character sheet is available here.
 
 ### Archetypes
 
-You are defined by an *Archetype*, which encapsulates your background, concept and role within the narrative.
+You are defined by an *Archetype*, which encapsulates your **Calling** to adventure `ToR 44-46`.
 Each *Archetype* should offer an immediate grasp of your identity and behaviours.
 It is expected you will evolve beyond these initial *Archetypes* towards unique narratives.
 
-< ADAPT TABLE BELOW FOR RHUN>
-
-| Archetype      | Description                         | Skill Groups (Optional)    |
-| :------------- | :---------------------------------- | :------------------------- |
-| **Clergy**     | Spiritual leaders and advisors      | Cultures, Administration   |
-| **Bureaucrat** | Administrators and office workers   | Liaison, Administration    |
-| **Trainer**    | Coaches and fitness instructors     | Athletics, Administration  |
-| **Agent**      | Covert operatives and enforcers     | Violence, Administration   |
-| **Coder**      | Programmers and software developers | Technology, Administration |
-| **Artist**     | Creators of art and culture         | Liaison, Cultures          |
-| **Criminal**   | Illicit operatives and thieves      | Survival, Cultures         |
-| **Dilettante** | Jack-of-all-trades and adventurers  | Athletics, Liaison         |
-| **Protector**  | Bodyguards and security personnel   | Violence, Liaison          |
-| **Disciple**   | Devoted followers and apprentices   | Survival, Liaison          |
-| **Fixer**      | Repair experts and mediators        | Technology, Liaison        |
-| **Academic**   | Scholars and researchers            | Sciences, Liaison          |
-| **Spy**        | Undercover agents and infiltrators  | Survival, Athletics        |
-| **Soldier**    | Survivalists and combat experts     | Survival, Violence         |
-| **Spacer**     |                                     |                            |
-| **Traveller**  | Explorers and navigators            | Vehicles, Survival         |
-| **Mechanic**   | Engineers and machine operators     | Vehicles, Technology       |
-| **Scientist**  | Researchers and innovators          | Sciences, Technology       |
+| Archetype          | Description                                                 | Favourite *Attributes* |
+| :----------------- | :---------------------------------------------------------- | :--------------------- |
+| **Captain**        | Lead with trust to save the world from ruin                 | Exertion, Influence    |
+| **Champio**        | Conquer the Shadow with strength, battling foes head-on     | Exertion, Finesse      |
+| **Messenger**      | Warn the Free Peoples against the coming danger             | Intuition, Reason      |
+| **Scholar**        | Knowledge turns fear into curiosity, guiding you and others | Reason, Attunement     |
+| **Tresure Hunter** | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
+| **Warden**         | Defend the defenseless, even if it means being feared       | Attunement, Influence  |
 
 ### Attributes
 
@@ -81,7 +73,7 @@ For each *Save* grouping (**Insight**, **Prowess**, and **Resolve**) roll $1d$ a
 | :----------------- | :---: | :---: | :-: |
 | *Attribute* points |  $1$  |  $2$  | $3$ |
 
-Finally, choose an *Attribute* and assign it an additional point.
+Finally, choose a Favourite *Attribute* from your *Archetype* and assign it an additional point.
 
 In certain conditions, you might permanently lose *Attribute* points, this is discussed in other sections.
 
