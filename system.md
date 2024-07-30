@@ -22,29 +22,29 @@ The **Terran Engine** is self contained in this section, and will not require re
 2. Always start with a Name and *Archetype*.
 3. Roll for *Attributes* and assign points.
 4. Roll for *Grit* and *Ego.*
-5. Choose one *Advancement.*
+5. Choose your Race and an *Advancement.*
 6. Make an image.
 
 A text version of the character sheet is available here.
 
 ### Archetypes
 
-You are defined by an *Archetype*, which encapsulates your **Calling** to adventure `ToR 44-46`.
+You are defined by an *Archetype*, which encapsulates your **Calling** to adventure`.
 Each *Archetype* should offer an immediate grasp of your identity and behaviours.
 It is expected you will evolve beyond these initial *Archetypes* towards unique narratives.
 
-| d6  | Archetype          | Description `ToR 44-46`                                     | Favourite *Attributes* |
-| :-- | :----------------- | :---------------------------------------------------------- | :--------------------- |
-| $1$ | **Captain**        | Lead with trust to save the world from ruin                 | Exertion, Influence    |
-| $2$ | **Champion**       | Conquer the Shadow with strength, battling foes head-on     | Exertion, Finesse      |
-| $3$ | **Messenger**      | Warn the Free Peoples against the coming danger             | Intuition, Reason      |
-| $4$ | **Scholar**        | Knowledge turns fear into curiosity, guiding you and others | Reason, Psyche         |
-| $5$ | **Tresure Hunter** | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
-| $6$ | **Warden**         | Defend the defenseless, even if it means being feared       | Psyche, Influence      |
+| d6  | Archetype      | Description `ToR 44-46`                                     | Favourite *Attributes* |
+| :-- | :------------- | :---------------------------------------------------------- | :--------------------- |
+| $1$ | Captain        | Lead with trust to save the world from ruin                 | Exertion, Influence    |
+| $2$ | Champion       | Conquer the Shadow with strength, battling foes head-on     | Exertion, Finesse      |
+| $3$ | Messenger      | Warn the Free Peoples against the coming danger             | Intuition, Reason      |
+| $4$ | Scholar        | Knowledge turns fear into curiosity, guiding you and others | Reason, Psyche         |
+| $5$ | Tresure Hunter | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
+| $6$ | Warden         | Defend the defenseless, even if it means being feared       | Psyche, Influence      |
 
-Optionally you can expand your *Archetype* with $2$ **Aspects** `ToR 67-68`.
+Optionally you can expand your *Archetype* with $2$ **Aspects**.
 
-| d6    | d6  | Aspect      | Description                                                                                           |
+| d6    | d6  | Aspect      | Description `ToR 67-68`                                                                               |
 | ----- | --- | ----------- | ----------------------------------------------------------------------------------------------------- |
 | $1:2$ | $1$ | Bold        | You trust your capabilities to the point that you readily place yourself in danger.                   |
 | $1:2$ | $2$ | Cunning     | Your wit is sharp, and you are ready to use it to your advantage.                                     |
@@ -182,34 +182,41 @@ Finally, they have gotten a malaise at some point, having reduced their **Exerti
 ### Advancements
 
 As you become more seasoned, you gain *Advancements*.
+Some *Advancements* are only available to specific races.
+Choose your Race.
 You start the game with $1$ *Advancement*.
-The list below are examples of a simple framework for their in-game mechanics.
 
 For every session you play (and survive) you gain $+2$ *Experience*.
 You also gain $+1$ *Experience* for each new *Condition* you develop.
 
 Whenever it is narratively coherent, you may spend *Experience* equal to $2\times$ your current number of *Advancements* to gain a new one.
 
-< ADAPT TABLE BELOW FOR RHUN>
-
-|                |                                                                                            |
-| -------------- | ------------------------------------------------------------------------------------------ |
-| Asceticism     | You do not take $-1d$ when rolling for *Grit* while poorly fed.                            |
-| Assassin       | $+2d$ when trying to assassinate an unaware rival.                                         |
-| Bodyguard      | You can choose to take damage instead of one of your allies.                               |
-| Could be worse | When **Broken** you do not take the penalty of $-1d$.                                      |
-| Danger sense   | $+1d$ whenever you use a **Insight/Evasion** *Save*.                                       |
-| Developed      | Gain $1$ in an *Attribute*. The maximum you can have in all *Attributes* together is $10$. |
-| Die Hard       | When you reset your *Grit*, roll $+1d$ and sum all the dice you rolled.                    |
-| Eager          | When you reset your *Ego*, roll $+1d$ and keep the highest.                                |
-| Fast           | When you roll, your *Effect* is always applied first.                                      |
-| Healer         | You can automatically stabilise a *Mortally Wounded* ally.                                 |
-| Henchkeeper    | You automatically succeed acquiring non-combatant henchmen in a community.                 |
-| Ironhide       | When unarmoured, your **Armour** is $1$.                                                   |
-| Sensory acuity | You have $+1d$ on noticing things through a chosen sense.                                  |
-| Sleek          | $+1d$ whenever you contort yourself to to break free.                                      |
-| Unyielding     | When **Weary** you do not take the penalty of $-1d$.                                       |
-| Whirlwind      | In melee combat, when you are successful, select an additional die as a second effect.     |
+| Advancement (Race)                                                                                                                       | Description `ToR 80-89`                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Confidence                                                                                                                               | When **Weary** you do not take the penalty of $-1d$.                                        |
+| Hardiness                                                                                                                                | When **Broken** you do not take the penalty of $-1d$.                                       |
+| Mastery                                                                                                                                  | When **Hazed** you do not take the penalty of $-1d$.                                        |
+| Dour-Handed                                                                                                                              | In melee combat, when you are successful, select an additional die as a second effect.      |
+| Nimbleness                                                                                                                               | When you roll, your *Effect* is always applied first.                                       |
+| Prowess                                                                                                                                  | Gain $1$ in an *Attribute*. The maximum you can have in all *Attributes* together is $10$.  |
+| Cram (**Men**)                                                                                                                           | You and your friends do not take $-1d$ when rolling for *Grit* while poorly fed.            |
+| Dragon-Slayer (**Men**)<br>Gleam of Wrath (**Elves**)<br>Small Folk (**Hobbits**)                                                        | $+1d$ when fighting enemies of *Challenge* $3d +$                                           |
+| Dwarf-Friend (**Men**)                                                                                                                   | Dwarves are always considered to be friendlier towards you ($+1d$)                          |
+| Fierce Shot (**Men**)<br>Deadly Archery (**Elves**)<br>Sure at the Mark (**Hobbits**)                                                    | $+2d$ when shooting an unaware rival.                                                       |
+| High Destiny (**Men**)<br>Stone Hard (**Dwarves**)<br>Tough as Old Tree-Roots (**Hobbits**)<br>Endurance of the Ranger (**Númenóreans**) | When you reset your *Grit*, roll $+1d$ and sum all the dice you rolled.                     |
+| The Language of the Birds (**Men**)                                                                                                      | Roll Psyche to speak with birds.                                                            |
+| Baruk Khazâd! (**Dwarves**)<br>Desperate Courage (**Men**)<br>Brave at a Pitch (**Hobbits**)                                             | $+1d$ whenever you roll a **Resolve** *Save*.                                               |
+| Dark for Dark Business (**Dwarves**)                                                                                                     | You have $+1d$ on noticing things in the dark.                                              |
+| Durin's Way (**Dwarves**)                                                                                                                | When unarmoured, your **Armour** is $1$.                                                    |
+| Untameable Spirit (**Dwarves**)<br>Elbereth Gilthoniel! (**Elves**)<br>Defiance (**Men**)                                                | $+1d$ whenever you roll a **Fortitude** *Save*.                                             |
+| Against the Unseen (**Elves**)<br>Bree-Pony (**Men**)<br>Strength of Will (**Númenóreans**)                                              | When you reset your *Ego*, roll $+1d$ and keep the highest.                                 |
+| Elvish Dreams (**Elves**)                                                                                                                | You do not need to sleep, and don't take $-1d$ when rolling for *Grit* while poorly rested. |
+| Memory of Ancient Days (**Elves**)<br>Ways of the Wild (**Númenóreans**)                                                                 | $+1e$ when journeying.                                                                      |
+| Art of Smoke (**Men**)                                                                                                                   | If you have pipe weed, you don't take $-1d$ when rolling for Grit while poorly rested.      |
+| Art of Disappearing (**Hobbits**)                                                                                                        | $+1d$ when trying to hide.                                                                  |
+| Three is Company (**Hobbits**)                                                                                                           | $+1d$ whenever you roll an **Evasion** *Save*.                                              |
+| Royalty Revealed (**Númenóreans**)                                                                                                       | You can choose to take damage instead of one of your allies.                                |
+| Friendly and Familiar (**Men**)                                                                                                          | You automatically succeed acquiring non-combatant henchmen in a community.                  |
 
 ### Conditions
 
@@ -218,14 +225,14 @@ Then, for each new *Condition* you acquire you progress in your **Shadow Path**.
 With the GM, define the mechanical impact of each *Condition*.
 If you gain a new *Condition* after having reached *Condition* **#4**, you are lost to the **Shadow**.
 
-| d6  | Shadow Path           | Common with     |
-| :-- | :-------------------- | :-------------- |
-| $1$ | **Curse of Vengance** | Champion        |
-| $2$ | **Dragon-Sickness**   | Treasure Hunter |
-| $3$ | **Lure of Power**     | Captain         |
-| $4$ | **Lure of Secrets**   | Scholar         |
-| $5$ | **Path of Despair**   | Warden          |
-| $6$ | **Wandering Madness** | Messenger       |
+| d6  | Shadow Path `ToR 141-142` | Common with     |
+| :-- | :------------------------ | :-------------- |
+| $1$ | Curse of Vengance         | Champion        |
+| $2$ | Dragon-Sickness           | Treasure Hunter |
+| $3$ | Lure of Power             | Captain         |
+| $4$ | Lure of Secrets           | Scholar         |
+| $5$ | Path of Despair           | Warden          |
+| $6$ | Wandering Madness         | Messenger       |
 
 #### Curse of Vengeance
 
