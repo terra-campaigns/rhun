@@ -33,14 +33,37 @@ You are defined by an *Archetype*, which encapsulates your **Calling** to advent
 Each *Archetype* should offer an immediate grasp of your identity and behaviours.
 It is expected you will evolve beyond these initial *Archetypes* towards unique narratives.
 
-| Archetype          | Description                                                 | Favourite *Attributes* |
-| :----------------- | :---------------------------------------------------------- | :--------------------- |
-| **Captain**        | Lead with trust to save the world from ruin                 | Exertion, Influence    |
-| **Champio**        | Conquer the Shadow with strength, battling foes head-on     | Exertion, Finesse      |
-| **Messenger**      | Warn the Free Peoples against the coming danger             | Intuition, Reason      |
-| **Scholar**        | Knowledge turns fear into curiosity, guiding you and others | Reason, Attunement     |
-| **Tresure Hunter** | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
-| **Warden**         | Defend the defenseless, even if it means being feared       | Attunement, Influence  |
+| d6  | Archetype          | Description `ToR 44-46`                                     | Favourite *Attributes* |
+| :-- | :----------------- | :---------------------------------------------------------- | :--------------------- |
+| $1$ | **Captain**        | Lead with trust to save the world from ruin                 | Exertion, Influence    |
+| $2$ | **Champio**        | Conquer the Shadow with strength, battling foes head-on     | Exertion, Finesse      |
+| $3$ | **Messenger**      | Warn the Free Peoples against the coming danger             | Intuition, Reason      |
+| $4$ | **Scholar**        | Knowledge turns fear into curiosity, guiding you and others | Reason, Psyche         |
+| $5$ | **Tresure Hunter** | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
+| $6$ | **Warden**         | Defend the defenseless, even if it means being feared       | Psyche, Influence      |
+
+Optionally you can expand your *Archetype* with $2$ **Aspects** `ToR 67-68`.
+
+| d6    | d6  | Aspect      | Description                                                                                           |
+| ----- | --- | ----------- | ----------------------------------------------------------------------------------------------------- |
+| $1:2$ | $1$ | Bold        | You trust your capabilities to the point that you readily place yourself in danger.                   |
+| $1:2$ | $2$ | Cunning     | Your wit is sharp, and you are ready to use it to your advantage.                                     |
+| $1:2$ | $3$ | Eager       | You are filled with excitement and impatience when an endeavour piques your interest.                 |
+| $1:2$ | $4$ | Faithful    | You are steadfastly devoted to those ideals or individuals you have chosen to follow.                 |
+| $1:2$ | $5$ | Fair        | You are considered attractive by most people, even by those not belonging to your folk.               |
+| $1:2$ | $6$ | Fair-spoken | Your speech and manners are naturally pleasant and respectful, and your words rarely provoke offence. |
+| $3:4$ | $1$ | Fierce      | When provoked, or when you deem it necessary, you may allow your savage side to emerge.               |
+| $3:4$ | $2$ | Generous    | You give with open hands and heart, always mindful of the needs of others.                            |
+| $3:4$ | $3$ | Honourable  | You believe in acting fairly and doing what is morally right.                                         |
+| $3:4$ | $4$ | Inquisitive | Your curious nature is easily aroused, often by what is often not your concern.                       |
+| $3:4$ | $5$ | Keen-eyed   | The keenness of your eyesight surpasses that of most folk.                                            |
+| $3:4$ | $6$ | Lordly      | Your dignified bearing arouses feelings of reverence and respect in onlookers.                        |
+| $5:6$ | $1$ | Merry       | Your spirit is not easily discouraged, and you can find light in the darkest of shadows.              |
+| $5:6$ | $2$ | Patient     | You are slow to lose your temper and can suffer fools, delays, or even hardship without complaint.    |
+| $5:6$ | $3$ | Proud       | You hold your feats and achievements, or those of your people, in high esteem.                        |
+| $5:6$ | $4$ | Rustic      | Your ways are simple, some might say even uncouth.                                                    |
+| $5:6$ | $5$ | Secretive   | You do not easily share your thoughts and prefer to conceal your intentions.                          |
+| $5:6$ | $6$ | Stern       | You possess a severe nature and express it in your behaviour, body language, and speech.              |
 
 ### Attributes
 
@@ -50,7 +73,7 @@ There are $6$ *Attributes* that you can use to overcome obstacles.
 - **Reason**: concentrate, think abstractly, build knowledge.
 - **Finesse**: dextrous manipulation, precision, subtle misdirection.
 - **Exertion**: apply physical force and power, melee.
-- **Attunement**: get in the flow and tune the arcane or technology.
+- **Psyche**: get in the flow and tune the arcane or technology.
 - **Influence**: compel obedience, socialise, influence.
 
 Each *Attribute* has a rating (from $0$ to $4$) that determine how many **Light Dice** to roll when performing *Risky Actions.*
@@ -60,7 +83,7 @@ On the character sheet, their ratings are read horizontally.
 
 - **Evasion** groups **Intuition** and **Reason**.
 - **Fortitude** groups **Finesse** and **Exertion**.
-- **Resolve** groups **Attunement** and **Influence**
+- **Resolve** groups **Psyche** and **Influence**
 
 *Saves* also have ratings (from $0$ to $2$) that determine how many dice to roll in a *Reaction* situation.
 On the character sheet, their ratings are read vertically.
