@@ -148,23 +148,13 @@ A *Malaise* never recovers.
 
 #### Pushing yourself {-}
 
-You spend *Ego* when you push beyond yourself in *Risky Actions*.
-When your *Ego* reaches $0$ you are lost somehow.
+You spend *Ego* when you call upon the **Ainulindale** and push beyond yourself in *Risky Actions*.
+However, if your *Ego* ever reaches $0$ you are lost to the **Shadow**.
 With the GM determine how your last scene goes.
 
-< ADAPT BELOW FOR RHUN>
-
-Any time you *Fail* in a *Risky Action* you may choose to suffer a **Panic Event**.
-When you do so, roll your Ego die ($1d$) and consult the table below.
-
-|       | Outcome                                                                                  |
-| :---: | ---------------------------------------------------------------------------------------- |
-| $1:3$ | Reset your *Ego* to $1:3$. You **Flight**, compelled to leave the scene.                 |
-| $4:5$ | Reset your *Ego* to $4:5$. You **Freeze**, silently or otherwise.                        |
-|  $6$  | Reset your *Ego* to $6$. You **Fight**, obsessed with being successful during the scene. |
-
-Describe the outcome narrativelly.
-In any case, after the scene ends, you gain a *Condition*.
+You can re-roll your Ego die ($1d$) anytime you want to reset your *Ego*.
+Doing so causes Dissonance in the **Ainulindale** and brings you close to the **Shadow**.
+For that you gain a *Condition*.
 With the GM, determine the mechanical effects and how to introduce your *Condition* into the narrative.
 
 #### Example: Scuff's scuffs {-}
