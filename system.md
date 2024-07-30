@@ -453,10 +453,10 @@ The following is a non-exhaustive list of consequences.
 
 When the GM wants to leave some decision to the dice, determine the chances and roll $1d$.
 
-### Sayonara
+### Heirs
 
-At any moment you can decide it is your last scene.
+If you have an heir that is known to your company, you can choose any moment as your last scene.
 When you do that, choose a song and then re-roll your *Ego* and *Grit*, keeping the highest values.
 For this scene, you only expend *Ego* if you roll a $1$ on **Dark Dice**.
 By the end of the scene, you have to figure out how you depart (death, madness, mission, etc.).
-You can create a new character with half (rounded up) the number of *Advancements* the previous character had.
+Your heir can is now part of your company, and starts with half (rounded up) the number of *Advancements* you previously had.
