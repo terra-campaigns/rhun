@@ -7,8 +7,8 @@ documentclass: book
 # bibliography: [book.bib]
 description: "These are Shadows of Rhûn materials."
 link-citations: yes
-github-repo: efsalvarenga/rhun
-url: https://efsalvarenga.github.io/arrival/
+github-repo: terra-campaigns/rhun
+url: https://terra-campaigns.github.io/rhun/
 favicon: "imgs/favicon.ico"
 cover-image: "imgs/cover.png"
 ---
