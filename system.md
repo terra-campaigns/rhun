@@ -449,4 +449,4 @@ If you have an heir that is known to your company, you can choose any moment as 
 When you do that, choose a song and then re-roll your *Ego* and *Grit*, keeping the highest values.
 For this scene, you only expend *Ego* if you roll a $1$ on **Dark Dice**.
 By the end of the scene, you have to figure out how you depart (death, madness, mission, etc.).
-Your heir can is now part of your company, and starts with half (rounded up) the number of *Advancements* you previously had.
+Your heir can now be part of your company, and starts with half (rounded up) the number of *Advancements* you previously had.
