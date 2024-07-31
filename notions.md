@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## Inbox
 
+- [ ] Sea of Rhun is part of an eastern silk route - goes from SE to NW through rivers and the Sea of Rhûn. Kazadorns are the route operators on the SE and Vashnars on the NE
+- [ ] The east is around renaissance level of tech
+- [ ] Vashnars names:
+- [ ] An age of rain? Prelude to the big flood
 
 
 ## Plot Ideas
