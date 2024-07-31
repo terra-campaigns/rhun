@@ -108,16 +108,16 @@ Still have lingering influence from the dark lords, some are good and were good 
 Tribes are cruelly oppressed by other tribes. Intra tribe oppression is accepted as a commonplace.
 The nation is a bloody one, with human life held cheap and death a commonplace. This may be the result of incessant warfare.
 
-Historical events
+## Historical events
 
+|         |                                                                                                                                                  |
+| ------: | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   0 FoA | Sauron is vanquished and the One Ring destroyed.                                                                                                 |
+| 139 FoA | Maximum expansion of Gondor and Rohan's alliance up to the Sea of Rhûn. Most orcs in the region are eliminated.                                  |
+| 160 FoA | Easterlings encroached by Gondor and Far East nomads. New tribes are formed.                                                                     |
+| 200 FoA | New tribes foster trade. Internal strife for control between new tribes and followers of Sauron. Remaining orcs are pushed to the deeps.         |
+| 250 FoA | Nomad clans reach economical (and effective) control through trading ties with East. Region is now known as Kazadorn.                            |
+| 289 FoA | Tar resources are found in Lôthregar. Economic and diplomatic ties are stablished, including operating the trade route south of the Sea of Rhûn. |
+| 346 FoA | Through assassinations and cunning, formal Sauron allied lords became rulers of north Kazadorn. Oppressed tribes migrate West to Vashnars.       |
+| 370 FoA | Lôthregar clans marry into southern Kazadorn tribes and start to culturally influence.                                                           |
 
-|       |                                                  |
-| ----- | ------------------------------------------------ |
-| 0 FoA | Sauron is vanquished and the One Ring destroyed. |
-|       |                                                  |
-
-
-**Historical events**:
-	- Warlords are always embroiled in assassinations, petty wars, and mutual struggle
-	- A trade tribe from southern Kazadorn is allied with the Lôthregars, and are winning privileges. 
-	- An outside power is backing internal strife.
