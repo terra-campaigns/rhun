@@ -27,30 +27,6 @@ You are defined by an *Archetype*, which encapsulates your background, concept a
 Each *Archetype* should offer an immediate grasp of your identity and behaviours.
 It is expected you will evolve beyond these initial *Archetypes* towards unique narratives.
 
-<<<<<<< Updated upstream
-< ADAPT TABLE BELOW FOR RHUN>
-
-| Archetype      | Description                         | Skill Groups (Optional)    |
-| :------------- | :---------------------------------- | :------------------------- |
-| **Clergy**     | Spiritual leaders and advisors      | Cultures, Administration   |
-| **Bureaucrat** | Administrators and office workers   | Liaison, Administration    |
-| **Trainer**    | Coaches and fitness instructors     | Athletics, Administration  |
-| **Agent**      | Covert operatives and enforcers     | Violence, Administration   |
-| **Coder**      | Programmers and software developers | Technology, Administration |
-| **Artist**     | Creators of art and culture         | Liaison, Cultures          |
-| **Criminal**   | Illicit operatives and thieves      | Survival, Cultures         |
-| **Dilettante** | Jack-of-all-trades and adventurers  | Athletics, Liaison         |
-| **Protector**  | Bodyguards and security personnel   | Violence, Liaison          |
-| **Disciple**   | Devoted followers and apprentices   | Survival, Liaison          |
-| **Fixer**      | Repair experts and mediators        | Technology, Liaison        |
-| **Academic**   | Scholars and researchers            | Sciences, Liaison          |
-| **Spy**        | Undercover agents and infiltrators  | Survival, Athletics        |
-| **Soldier**    | Survivalists and combat experts     | Survival, Violence         |
-| **Spacer**     |                                     |                            |
-| **Traveller**  | Explorers and navigators            | Vehicles, Survival         |
-| **Mechanic**   | Engineers and machine operators     | Vehicles, Technology       |
-| **Scientist**  | Researchers and innovators          | Sciences, Technology       |
-=======
 | d6  | Archetype      | Description `ToR 44-46`                                     | Favourite *Attributes* |
 | :-- | :------------- | :---------------------------------------------------------- | :--------------------- |
 | $1$ | Captain        | Lead with trust to save the world from ruin                 | Force, Command, Reason |
@@ -82,7 +58,6 @@ Optionally you can expand your *Archetype* with up to $2$ narrative **Aspects**.
 | $5:6$ | $4$ | Rustic      | Your ways are simple, some might say even uncouth.                                                    |
 | $5:6$ | $5$ | Secretive   | You do not easily share your thoughts and prefer to conceal your intentions.                          |
 | $5:6$ | $6$ | Stern       | You possess a severe nature and express it in your behaviour, body language, and speech.              |
->>>>>>> Stashed changes
 
 ### Attributes
 
@@ -90,12 +65,6 @@ There are $9$ *Attributes* that you can use to overcome obstacles.
 
 - **Survey**: track targets, understand creatures and situations.
 - **Reason**: concentrate, think abstractly, build knowledge.
-<<<<<<< Updated upstream
-- **Finesse**: dextrous manipulation, precision, subtle misdirection.
-- **Exertion**: apply physical force and power, melee.
-- **Attunement**: get in the flow and tune the arcane or technology.
-- **Influence**: compel obedience, socialise, influence.
-=======
 - **Tinker**: craft, repair and improve objects.
 - **Finesse**: dextrous manipulation, precision.
 - **Force**: exert, break things, skirmish.
@@ -103,22 +72,15 @@ There are $9$ *Attributes* that you can use to overcome obstacles.
 - **Attune**: get in the flow and tune the arcane or technology.
 - **Command**: compel obedience, lead, awe.
 - **Charm**: socialise, influence, persuade.
->>>>>>> Stashed changes
 
 Each *Attribute* has a rating (from $0$ to $4$) that determine how many **Light Dice** to roll when performing *Risky Actions.*
 On the character sheet, their ratings are read horizontally.
 
 *Saves* are groupings of $3$ *Attributes* each.
 
-<<<<<<< Updated upstream
-- **Evasion** groups **Intuition** and **Reason**.
-- **Fortitude** groups **Finesse** and **Exertion**.
-- **Resolve** groups **Attunement** and **Influence**
-=======
 - **Insight** groups **Survey**, **Reason** and **Tinker**.
 - **Prowess** groups **Finesse**, **Force** and **Sneak**.
 - **Resolve** groups **Attune**, **Command** and **Charm**.
->>>>>>> Stashed changes
 
 *Saves* also have ratings (from $0$ to $3$) that determine how many dice to roll in a *Reaction* situation.
 On the character sheet, their ratings are read vertically.
@@ -143,18 +105,10 @@ In certain conditions, you might permanently lose *Attribute* points, this is di
 | ●○○○ Reason | ●○○○ Force   | ○○○○ Command |
 | ○○○○ Tinker | ●○○○ Sneak   | ○○○○ Charm   |
 
-<<<<<<< Updated upstream
-
-Scuff has an **Attunement** *Attribute* rating of $3$ (read horizontally).
-They roll $3d$ when performing a Risky Action related to **Attunement**.
-They also have **Influence** $0$ (horizontally), so they roll $0d$ (i.e. no chance if no advantage is found).
-If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve/Willpower** *Save* rating (read vertically).
-=======
 Scuff has an **Attune** *Attribute* rating of $3$ (read horizontally).
 They roll $3d$ when performing a Risky Action when **Attuning**.
 They also have **Charm** $0$ (horizontally), so they roll $0d$ (i.e. they have no chance, unless some advantage is found).
 If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve** *Save* rating (read vertically).
->>>>>>> Stashed changes
 
 ### Grit & Ego
 
