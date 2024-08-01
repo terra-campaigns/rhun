@@ -1,6 +1,6 @@
 # Terra System's Rhûn {#system}
 
-This section details how to play **Shadows of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
+This section details how to play **Shadow of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
 The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://efsalvarenga.github.io/terraSystem/) separately.
 
 #### Taxonomy {-}
@@ -27,6 +27,7 @@ You are defined by an *Archetype*, which encapsulates your background, concept a
 Each *Archetype* should offer an immediate grasp of your identity and behaviours.
 It is expected you will evolve beyond these initial *Archetypes* towards unique narratives.
 
+<<<<<<< Updated upstream
 < ADAPT TABLE BELOW FOR RHUN>
 
 | Archetype      | Description                         | Skill Groups (Optional)    |
@@ -49,37 +50,86 @@ It is expected you will evolve beyond these initial *Archetypes* towards unique 
 | **Traveller**  | Explorers and navigators            | Vehicles, Survival         |
 | **Mechanic**   | Engineers and machine operators     | Vehicles, Technology       |
 | **Scientist**  | Researchers and innovators          | Sciences, Technology       |
+=======
+| d6  | Archetype      | Description `ToR 44-46`                                     | Favourite *Attributes* |
+| :-- | :------------- | :---------------------------------------------------------- | :--------------------- |
+| $1$ | Captain        | Lead with trust to save the world from ruin                 | Force, Command, Reason |
+| $2$ | Champion       | Conquer the Shadow with strength, battling foes head-on     | Force, Finesse, Tinker |
+| $3$ | Messenger      | Warn the Free Peoples against the coming danger             | Survey, Sneak, Charm   |
+| $4$ | Scholar        | Knowledge turns fear into curiosity, guiding you and others | Reason, Attune, Tinker |
+| $5$ | Tresure Hunter | Recover lost treasures, braving dangers and fell beasts     | Finesse, Survey, Sneak |
+| $6$ | Warden         | Defend the defenseless, even if it means being feared       | Attune, Charm, Command |
+
+Optionally you can expand your *Archetype* with up to $2$ narrative **Aspects**.
+
+| d6    | d6  | Aspect      | Description `ToR 67-68`                                                                               |
+| ----- | --- | ----------- | ----------------------------------------------------------------------------------------------------- |
+| $1:2$ | $1$ | Bold        | You trust your capabilities to the point that you readily place yourself in danger.                   |
+| $1:2$ | $2$ | Cunning     | Your wit is sharp, and you are ready to use it to your advantage.                                     |
+| $1:2$ | $3$ | Eager       | You are filled with excitement and impatience when an endeavour piques your interest.                 |
+| $1:2$ | $4$ | Faithful    | You are steadfastly devoted to those ideals or individuals you have chosen to follow.                 |
+| $1:2$ | $5$ | Fair        | You are considered attractive by most people, even by those not belonging to your folk.               |
+| $1:2$ | $6$ | Fair-spoken | Your speech and manners are naturally pleasant and respectful, and your words rarely provoke offence. |
+| $3:4$ | $1$ | Fierce      | When provoked, or when you deem it necessary, you may allow your savage side to emerge.               |
+| $3:4$ | $2$ | Generous    | You give with open hands and heart, always mindful of the needs of others.                            |
+| $3:4$ | $3$ | Honourable  | You believe in acting fairly and doing what is morally right.                                         |
+| $3:4$ | $4$ | Inquisitive | Your curious nature is easily aroused, often by what is often not your concern.                       |
+| $3:4$ | $5$ | Keen-eyed   | The keenness of your eyesight surpasses that of most folk.                                            |
+| $3:4$ | $6$ | Lordly      | Your dignified bearing arouses feelings of reverence and respect in onlookers.                        |
+| $5:6$ | $1$ | Merry       | Your spirit is not easily discouraged, and you can find light in the darkest of shadows.              |
+| $5:6$ | $2$ | Patient     | You are slow to lose your temper and can suffer fools, delays, or even hardship without complaint.    |
+| $5:6$ | $3$ | Proud       | You hold your feats and achievements, or those of your people, in high esteem.                        |
+| $5:6$ | $4$ | Rustic      | Your ways are simple, some might say even uncouth.                                                    |
+| $5:6$ | $5$ | Secretive   | You do not easily share your thoughts and prefer to conceal your intentions.                          |
+| $5:6$ | $6$ | Stern       | You possess a severe nature and express it in your behaviour, body language, and speech.              |
+>>>>>>> Stashed changes
 
 ### Attributes
 
-There are $6$ *Attributes* that you can use to overcome obstacles.
+There are $9$ *Attributes* that you can use to overcome obstacles.
 
-- **Intuition**: track targets, understand creatures, care, survive.
+- **Survey**: track targets, understand creatures and situations.
 - **Reason**: concentrate, think abstractly, build knowledge.
+<<<<<<< Updated upstream
 - **Finesse**: dextrous manipulation, precision, subtle misdirection.
 - **Exertion**: apply physical force and power, melee.
 - **Attunement**: get in the flow and tune the arcane or technology.
 - **Influence**: compel obedience, socialise, influence.
+=======
+- **Tinker**: craft, repair and improve objects.
+- **Finesse**: dextrous manipulation, precision.
+- **Force**: exert, break things, skirmish.
+- **Sneak**: move silently, misdirect, subtlety.
+- **Attune**: get in the flow and tune the arcane or technology.
+- **Command**: compel obedience, lead, awe.
+- **Charm**: socialise, influence, persuade.
+>>>>>>> Stashed changes
 
 Each *Attribute* has a rating (from $0$ to $4$) that determine how many **Light Dice** to roll when performing *Risky Actions.*
 On the character sheet, their ratings are read horizontally.
 
-*Saves* are groupings of two *Attributes* each.
+*Saves* are groupings of $3$ *Attributes* each.
 
+<<<<<<< Updated upstream
 - **Evasion** groups **Intuition** and **Reason**.
 - **Fortitude** groups **Finesse** and **Exertion**.
 - **Resolve** groups **Attunement** and **Influence**
+=======
+- **Insight** groups **Survey**, **Reason** and **Tinker**.
+- **Prowess** groups **Finesse**, **Force** and **Sneak**.
+- **Resolve** groups **Attune**, **Command** and **Charm**.
+>>>>>>> Stashed changes
 
-*Saves* also have ratings (from $0$ to $2$) that determine how many dice to roll in a *Reaction* situation.
+*Saves* also have ratings (from $0$ to $3$) that determine how many dice to roll in a *Reaction* situation.
 On the character sheet, their ratings are read vertically.
 
 #### Determine Attributes  {-}
 
-For each *Save* grouping (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many *Attribute* points you have to distribute for each.
+For each *Save* (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many *Attribute* points you have to distribute for each.
 
 |                    | $1:3$ | $4:5$ | $6$ |
 | :----------------- | :---: | :---: | :-: |
-| *Attribute* points |  $1$  |  $2$  | $3$ |
+| *Attribute* points |  $2$  |  $3$  | $4$ |
 
 Finally, choose an *Attribute* and assign it an additional point.
 
@@ -87,13 +137,24 @@ In certain conditions, you might permanently lose *Attribute* points, this is di
 
 #### Example: Scuff's Attributes {-}
 
-![](https://i.imgur.com/bnKfumi.png)
+| Insight     | Prowess      | Resolve      |
+| ----------- | ------------ | ------------ |
+| ●●○○ Survey | ○○○○ Finesse | ●●●○ Attune  |
+| ●○○○ Reason | ●○○○ Force   | ○○○○ Command |
+| ○○○○ Tinker | ●○○○ Sneak   | ○○○○ Charm   |
 
+<<<<<<< Updated upstream
 
 Scuff has an **Attunement** *Attribute* rating of $3$ (read horizontally).
 They roll $3d$ when performing a Risky Action related to **Attunement**.
 They also have **Influence** $0$ (horizontally), so they roll $0d$ (i.e. no chance if no advantage is found).
 If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve/Willpower** *Save* rating (read vertically).
+=======
+Scuff has an **Attune** *Attribute* rating of $3$ (read horizontally).
+They roll $3d$ when performing a Risky Action when **Attuning**.
+They also have **Charm** $0$ (horizontally), so they roll $0d$ (i.e. they have no chance, unless some advantage is found).
+If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve** *Save* rating (read vertically).
+>>>>>>> Stashed changes
 
 ### Grit & Ego
 
@@ -154,15 +215,19 @@ With the GM, determine the mechanical effects and how to introduce your *Conditi
 
 #### Example: Scuff's scuffs {-}
 
-![](https://i.imgur.com/IYdZoZh.png)
-
+| Grit $1d$                                     | Ego $1d$                                                     |                                                                                                  |
+| --------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| $\cancel{5}$ $2$                              | $\cancel{3}$ $\cancel{2}$ $4$                                | **Condition**: Scales on the hand<br>**Malaise**: Weak lower back<br>           ($-1$ **Force**) |
+| $\cancel{\square}$ **Hazed**: $-1d$ Insight   | Experience:$\cancel{2}$ $\cancel{0}$ $\text{  } 3 \text{  }$ |                                                                                                  |
+| $\text{  } \square$ **Broken**: $-1d$ Prowess |                                                              |                                                                                                  |
+| $\text{  } \square$ **Weary**: $-1d$ Resolve  |                                                              |                                                                                                  |
 
 Scuff has $1d$ for both *Grit* and *Ego* (usual for early characters).
 They have seen some harm, having lost $3$ *Grit* (from $5$ to $2$) and taken a **Hazed** wound.
-This means that any time they roll related to **Insight** (**Intuition** or **Reason** for *Risky Actions*, or **Evasion** *Reaction*), they take $-1d$.
+This means that any time they roll related to **Insight** (*Risky Actions* or *Reaction*), they take $-1d$.
 
 Scuff also risked their *Ego* a few times, and took a **Condition** to reset it (from 2 to 4).
-Finally, they have gotten a malaise at some point, having reduced their **Exertion** *Attribute* rating because of a weakened lower back.
+Finally, they have gotten a malaise at some point, having reduced their **Force** *Attribute* rating because of a weakened lower back.
 
 ### Advancements
 
