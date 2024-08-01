@@ -25,7 +25,9 @@ This is better for versioning.
 
 If you need to add text that does not get rendered into html, make a new paragraph with:
 
+```
 [This is a comment that will be hidden.]: # 
+```
 
 ## Sandbox
 
