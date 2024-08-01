@@ -1,6 +1,6 @@
 # Terra System's Rhûn {#system}
 
-This section details how to play **Shadows of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
+This section details how to play **Shadow of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
 The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://efsalvarenga.github.io/terraSystem/) separately.
 
 #### Taxonomy {-}
@@ -42,7 +42,7 @@ It is expected you will evolve beyond these initial *Archetypes* towards unique 
 | $5$ | Tresure Hunter | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
 | $6$ | Warden         | Defend the defenseless, even if it means being feared       | Psyche, Influence      |
 
-Optionally you can expand your *Archetype* with $2$ **Aspects**.
+Optionally you can expand your *Archetype* with up to $2$ narrative **Aspects**.
 
 | d6    | d6  | Aspect      | Description `ToR 67-68`                                                                               |
 | ----- | --- | ----------- | ----------------------------------------------------------------------------------------------------- |
@@ -79,10 +79,10 @@ There are $6$ *Attributes* that you can use to overcome obstacles.
 Each *Attribute* has a rating (from $0$ to $4$) that determine how many **Light Dice** to roll when performing *Risky Actions.*
 On the character sheet, their ratings are read horizontally.
 
-*Saves* are groupings of two *Attributes* each.
+*Saves* are groupings of $2$ *Attributes* each.
 
-- **Evasion** groups **Intuition** and **Reason**.
-- **Fortitude** groups **Finesse** and **Exertion**.
+- **Insight** groups **Intuition** and **Reason**.
+- **Prowess** groups **Finesse** and **Exertion**.
 - **Resolve** groups **Psyche** and **Influence**
 
 *Saves* also have ratings (from $0$ to $2$) that determine how many dice to roll in a *Reaction* situation.
@@ -90,7 +90,7 @@ On the character sheet, their ratings are read vertically.
 
 #### Determine Attributes  {-}
 
-For each *Save* grouping (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many *Attribute* points you have to distribute for each.
+For each *Save* (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many *Attribute* points you have to distribute for each.
 
 |                    | $1:3$ | $4:5$ | $6$ |
 | :----------------- | :---: | :---: | :-: |
@@ -107,7 +107,7 @@ In certain conditions, you might permanently lose *Attribute* points, this is di
 
 Scuff has an **Attunement** *Attribute* rating of $3$ (read horizontally).
 They roll $3d$ when performing a Risky Action related to **Attunement**.
-They also have **Influence** $0$ (horizontally), so they roll $0d$ (i.e. no chance if no advantage is found).
+They also have **Influence** $0$ (horizontally), so they roll $0d$ (i.e. they have no chance, unless some advantage is found).
 If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve** *Save* rating (read vertically).
 
 ### Grit & Ego
@@ -164,7 +164,7 @@ With the GM, determine the mechanical effects and how to introduce your *Conditi
 
 Scuff has $1d$ for both *Grit* and *Ego* (usual for early characters).
 They have seen some harm, having lost $3$ *Grit* (from $5$ to $2$) and taken a **Hazed** wound.
-This means that any time they roll related to **Insight** (**Intuition** or **Reason** for *Risky Actions*, or **Evasion** *Reaction*), they take $-1d$.
+This means that any time they roll related to **Insight** (*Risky Actions* or *Reaction*), they take $-1d$.
 
 Scuff also risked their *Ego* a few times, and took a **Condition** to reset it (from 2 to 4).
 Finally, they have gotten a malaise at some point, having reduced their **Exertion** *Attribute* rating because of a weakened lower back.
