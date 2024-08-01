@@ -38,9 +38,9 @@ It is expected you will evolve beyond these initial *Archetypes* towards unique 
 | $1$ | Captain        | Lead with trust to save the world from ruin                 | Exertion, Influence    |
 | $2$ | Champion       | Conquer the Shadow with strength, battling foes head-on     | Exertion, Finesse      |
 | $3$ | Messenger      | Warn the Free Peoples against the coming danger             | Intuition, Reason      |
-| $4$ | Scholar        | Knowledge turns fear into curiosity, guiding you and others | Reason, Psyche         |
+| $4$ | Scholar        | Knowledge turns fear into curiosity, guiding you and others | Reason, Attunement     |
 | $5$ | Tresure Hunter | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
-| $6$ | Warden         | Defend the defenseless, even if it means being feared       | Psyche, Influence      |
+| $6$ | Warden         | Defend the defenseless, even if it means being feared       | Attunement, Influence  |
 
 Optionally you can expand your *Archetype* with up to $2$ narrative **Aspects**.
 
@@ -73,7 +73,7 @@ There are $6$ *Attributes* that you can use to overcome obstacles.
 - **Reason**: concentrate, think abstractly, build knowledge.
 - **Finesse**: dextrous manipulation, precision, subtle misdirection.
 - **Exertion**: apply physical force and power, melee.
-- **Psyche**: get in the flow and tune the arcane or technology.
+- **Attunement**: get in the flow and tune the arcane or technology.
 - **Influence**: compel obedience, socialise, influence.
 
 Each *Attribute* has a rating (from $0$ to $4$) that determine how many **Light Dice** to roll when performing *Risky Actions.*
@@ -83,7 +83,7 @@ On the character sheet, their ratings are read horizontally.
 
 - **Insight** groups **Intuition** and **Reason**.
 - **Prowess** groups **Finesse** and **Exertion**.
-- **Resolve** groups **Psyche** and **Influence**
+- **Resolve** groups **Attunement** and **Influence**
 
 *Saves* also have ratings (from $0$ to $2$) that determine how many dice to roll in a *Reaction* situation.
 On the character sheet, their ratings are read vertically.
@@ -194,7 +194,7 @@ Whenever it is narratively coherent, you may spend *Experience* equal to $2\time
 | Dwarf-Friend (**Men**)                                                                                                                   | Dwarves are always considered to be friendlier towards you ($+1d$)                          |
 | Fierce Shot (**Men**)<br>Deadly Archery (**Elves**)<br>Sure at the Mark (**Hobbits**)                                                    | $+2d$ when shooting an unaware rival.                                                       |
 | High Destiny (**Men**)<br>Stone Hard (**Dwarves**)<br>Tough as Old Tree-Roots (**Hobbits**)<br>Endurance of the Ranger (**Númenóreans**) | When you reset your *Grit*, roll $+1d$ and sum all the dice you rolled.                     |
-| The Language of the Birds (**Men**)                                                                                                      | Roll Psyche to speak with birds.                                                            |
+| The Language of the Birds (**Men**)                                                                                                      | Roll Attunement to speak with birds.                                                        |
 | Baruk Khazâd! (**Dwarves**)<br>Desperate Courage (**Men**)<br>Brave at a Pitch (**Hobbits**)                                             | $+1d$ whenever you roll a **Resolve** *Save*.                                               |
 | Dark for Dark Business (**Dwarves**)                                                                                                     | You have $+1d$ on noticing things in the dark.                                              |
 | Durin's Way (**Dwarves**)                                                                                                                | When unarmoured, your **Armour** is $1$.                                                    |
