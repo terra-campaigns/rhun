@@ -27,6 +27,58 @@ The **Terran Engine** is self contained in this section, and will not require re
 
 A text version of the character sheet is available here.
 
+### Group concept
+
+Roll once or twice on the group concept table to draw inspiration for the group.
+
+| d20 | Concept                         | **Description**                                                                                                                         |
+| --- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Wandering Kheshigs              | A band of elite mercenaries, skilled horsemen, and warriors, offering their services to the highest bidder.                             |
+| 2   | Wind Riders                     | Free-spirited investigators who roam the lands, unraveling mysteries and seeking justice under the open skies.                          |
+| 3   | Inquisitors of the Golden Horde | Official investigators serving the Great Khanate, known for their unwavering loyalty and keen insight.                                  |
+| 4   | Khan's Whisperers               | Trusted advisors to the royal court, wielding wisdom and influence over the affairs of the realm.                                       |
+| 5   | Shadow Clan                     | A secretive thieves' guild, masters of stealth and deception, hidden within the city's underbelly.                                      |
+| 6   | Order of the Hidden Path        | A clandestine society, weaving unseen webs of power and influence, shaping events from the shadows.                                     |
+| 7   | Clerics of Eternal Sky          | Religious investigators devoted to the celestial gods, seeking divine guidance to uncover hidden truths.                                |
+| 8   | Fellowship of the Steppes       | Adventurers bound by honor and camaraderie, exploring untamed lands and ancient ruins in search of glory and treasure.                  |
+| 9   | Silk Road Inspectors            | Business investigators navigating the intricate trade routes, ensuring fairness and integrity in commerce.                              |
+| 10  | Silent Talons                   | A feared assassins' guild, executing precise strikes with deadly efficiency, leaving no trace behind.                                   |
+| 11  | Enclave of the Mystic Nomads    | A school of arcane arts where wandering wizards gather to study the ancient secrets of magic and lore.                                  |
+| 12  | Disciples of the Eternal Flame  | Monastic students dedicated to mastering the art of combat and spiritual enlightenment, following the path of the eternal flame.        |
+| 13  | Arena of the Iron Horde         | A gladiator school where fierce warriors are trained in the brutal art of combat, fighting for honor and glory.                         |
+| 14  | Steppe Wardens                  | Military specialists known for their tactical brilliance and unmatched horsemanship, defending the realm against all threats.           |
+| 15  | Eyes of the Khan                | A vast spy network gathering intelligence and securing the realm's secrets with unmatched precision and cunning.                        |
+| 16  | Riders of Justice               | A constabulary force of mounted patrols, maintaining order and delivering swift justice across the lands.                               |
+| 17  | Enchanted Companions            | Magically bound servants sworn to serve their masters with loyalty and enchanted prowess.                                               |
+| 18  | Voices of the Ancestors         | Individuals who claim divine inspiration, guided by the spirits of their forebears to fulfill sacred missions.                          |
+| 19  | Guardians of the Grasslands     | Protectors of the common folk, valiant defenders of the steppe's people and their way of life, standing against tyranny and oppression. |
+| 20  | Seekers of Blood Debt           | A group dedicated to avenging wrongs and settling ancient feuds, driven by honor and the desire for retribution.                        |
+
+To further enhance group cohesion, inter group relationships can be rolled on the relationship table.
+
+| d20 | Relationship          |
+| --- | --------------------- |
+| 1   | Sibling of            |
+| 2   | Saved by              |
+| 3   | Served with           |
+| 4   | Protected by          |
+| 5   | Adventured with       |
+| 6   | Friendly rival of     |
+| 7   | Childhood friend of   |
+| 8   | Magically bound to    |
+| 9   | Survived with         |
+| 10  | Escaped with          |
+| 11  | Apprentice of         |
+| 12  | Acolyte of            |
+| 13  | Idolizes              |
+| 14  | Drinking buddies with |
+| 15  | Business associate of |
+| 16  | Lost a bet to         |
+| 17  | Indebted to           |
+| 18  | Trained by            |
+| 19  | Dueling partner of    |
+| 20  | On the run with       |
+
 ### Archetypes
 
 You are defined by an *Archetype*, which encapsulates your **Calling** to adventure`.
