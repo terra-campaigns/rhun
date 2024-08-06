@@ -91,7 +91,7 @@ If a PC's **Ability** is reduced to 0 they:
 
 When they are stable, if their new permanent [Attribute](/system/characters/#attributes) is equal or higher than their number of [Advancements](/system/characters/#advancements), they can choose an additional [Advancement](/system/characters/#advancements).
 
-### Healing
+### Recovery
 
 Resting for a few hours and having a meal allow you to re-roll your **Grit**.
 Ability loss (see **Critical Harm**) can usually be restored at a rate of one per day, if facilitated by a healer or other appropriate source of expertise.

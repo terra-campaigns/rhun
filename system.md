@@ -95,42 +95,6 @@ Finally, they have gotten a malaise at some point, having reduced their **Exerti
 
 ### Advancements
 
-As you become more seasoned, you gain *Advancements*.
-Some *Advancements* are only available to specific races.
-Choose your Race.
-You start the game with $1$ *Advancement*.
-
-For every session you play (and survive) you gain $+2$ *Experience*.
-You also gain $+1$ *Experience* for each new *Condition* you develop.
-
-Whenever it is narratively coherent, you may spend *Experience* equal to $2\times$ your current number of *Advancements* to gain a new one.
-
-| Advancement (Race)                                                                                                                       | Description `ToR 80-89`                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Confidence                                                                                                                               | When **Weary** you do not take the penalty of $-1d$.                                        |
-| Hardiness                                                                                                                                | When **Broken** you do not take the penalty of $-1d$.                                       |
-| Mastery                                                                                                                                  | When **Hazed** you do not take the penalty of $-1d$.                                        |
-| Dour-Handed                                                                                                                              | In melee combat, when you are successful, select an additional die as a second effect.      |
-| Nimbleness                                                                                                                               | When you roll, your *Effect* is always applied first.                                       |
-| Prowess                                                                                                                                  | Gain $1$ in an *Attribute*. The maximum you can have in all *Attributes* together is $10$.  |
-| Cram (**Men**)                                                                                                                           | You and your friends do not take $-1d$ when rolling for *Grit* while poorly fed.            |
-| Dragon-Slayer (**Men**)<br>Gleam of Wrath (**Elves**)<br>Small Folk (**Hobbits**)                                                        | $+1d$ when fighting enemies of *Challenge* $3d +$                                           |
-| Dwarf-Friend (**Men**)                                                                                                                   | Dwarves are always considered to be friendlier towards you ($+1d$)                          |
-| Fierce Shot (**Men**)<br>Deadly Archery (**Elves**)<br>Sure at the Mark (**Hobbits**)                                                    | $+2d$ when shooting an unaware rival.                                                       |
-| High Destiny (**Men**)<br>Stone Hard (**Dwarves**)<br>Tough as Old Tree-Roots (**Hobbits**)<br>Endurance of the Ranger (**Númenóreans**) | When you reset your *Grit*, roll $+1d$ and sum all the dice you rolled.                     |
-| The Language of the Birds (**Men**)                                                                                                      | Roll Psyche to speak with birds.                                                            |
-| Baruk Khazâd! (**Dwarves**)<br>Desperate Courage (**Men**)<br>Brave at a Pitch (**Hobbits**)                                             | $+1d$ whenever you roll a **Resolve** *Save*.                                               |
-| Dark for Dark Business (**Dwarves**)                                                                                                     | You have $+1d$ on noticing things in the dark.                                              |
-| Durin's Way (**Dwarves**)                                                                                                                | When unarmoured, your **Armour** is $1$.                                                    |
-| Untameable Spirit (**Dwarves**)<br>Elbereth Gilthoniel! (**Elves**)<br>Defiance (**Men**)                                                | $+1d$ whenever you roll a **Fortitude** *Save*.                                             |
-| Against the Unseen (**Elves**)<br>Bree-Pony (**Men**)<br>Strength of Will (**Númenóreans**)                                              | When you reset your *Ego*, roll $+1d$ and keep the highest.                                 |
-| Elvish Dreams (**Elves**)                                                                                                                | You do not need to sleep, and don't take $-1d$ when rolling for *Grit* while poorly rested. |
-| Memory of Ancient Days (**Elves**)<br>Ways of the Wild (**Númenóreans**)                                                                 | $+1e$ when journeying.                                                                      |
-| Art of Smoke (**Men**)                                                                                                                   | If you have pipe weed, you don't take $-1d$ when rolling for Grit while poorly rested.      |
-| Art of Disappearing (**Hobbits**)                                                                                                        | $+1d$ when trying to hide.                                                                  |
-| Three is Company (**Hobbits**)                                                                                                           | $+1d$ whenever you roll an **Evasion** *Save*.                                              |
-| Royalty Revealed (**Númenóreans**)                                                                                                       | You can choose to take damage instead of one of your allies.                                |
-| Friendly and Familiar (**Men**)                                                                                                          | You automatically succeed acquiring non-combatant henchmen in a community.                  |
 
 ### Conditions
 

@@ -87,31 +87,36 @@ You start with *1d6* [Grit](/system/characters/#grit), which you re-roll every t
 
 ## Advancements
 
+Choose your **Race**.
+Some [Advancements](/system/characters/#advancements) are only available to specific **Races**.
 You start the game with *1* [Advancement](/system/characters/#advancements).
 Every time you are [Critically Harmed](/system/rules/#critical-harm) you gain a new [Advancement](/system/characters/#advancements) if your new permanent [Attribute](/system/characters/#attributes) is equal or higher than your current number of [Advancements](/system/characters/#advancements).
 
-The list below are examples of a simple framework for their in-game mechanics.
-
-|                   |                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------ |
-| Asceticism        | You do not take *-1d* when rolling for [Grit](/system/characters/#grit) while poorly fed.        |
-| Assassin          | Best of *2d12* when trying to assassinate an unaware rival.                                      |
-| Bodyguard         | You can choose to take damage instead of one of your allies.                                     |
-| Could be worse    | Your **Prowess** *Trauma Save* is rolled *Enhanced*.                                             |
-| Danger sense      | Roll $3d6$, if it is higher than your current **Insight**, take the new result.                  |
-| Developed         | Roll $3d6$, if it is higher than your current **Prowess**, take the new result.                  |
-| Die Hard          | When you reset your *Grit*, roll $+1d$ and sum all the dice you rolled.                          |
-| Expert            | You have $1$ additional Skill points (requires appropriate narrative with the GM).               |
-| Fast              | You always act before your opposition.                                                           |
-| Healer            | You can automatically stabilise an ally with a *Critical Trauma*.                                |
-| Henchkeeper       | You automatically succeed acquiring non-combatant henchmen in a community.                       |
-| Ironhide          | When unarmored, your **Armour** is $1$.                                                          |
-| Resolute          | Roll $3d6$, if it is higher than your current **Resolve**, take the new result.                  |
-| Sensory acuity    | When noticing things through a chosen sense you roll an *Enhanced* *Save*.                       |
-| Sleek             | *Enhanced Save* whenever you contort yourself to to break free.                                  |
-| Martial combatant | Unarmed attacks are not considered improvised.                                                   |
-| Unyielding        | Your **Resolve** *Trauma Save* is rolled *Enhanced*.                                             |
-| Whirlwind         | You are proficient in fighting in melee with two weapons (the off-hand weapon rolls *Impaired*). |
+| Advancement (Race)                                                                                                                       | Description `ToR 80-89`                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dour-Handed                                                                                                                              | You are proficient in fighting in melee with two weapons (the off-hand weapon is smaller).                                                  |
+| Nimbleness                                                                                                                               | You always act before your opposition.                                                                                                      |
+| Developed                                                                                                                                | Roll *3d6*, if it is higher than your current **Prowess**, take the new result.                                                             |
+| Danger sense                                                                                                                             | Roll *3d6*, if it is higher than your current **Insight**, take the new result.                                                             |
+| Resolute                                                                                                                                 | Roll *3d6*, if it is higher than your current **Resolve**, take the new result.                                                             |
+| Cram (**Men**)                                                                                                                           | You have no **Grit** [penalty](/system/rules/#healing) when **Deprived**.                                                                   |
+| Dragon-Slayer (**Men**)<br>Gleam of Wrath (**Elves**)<br>Small Folk (**Hobbits**)                                                        | Your attacks are [Enhanced](/system/rules/#roll-modifiers) when fighting opposition of 8+ Grit.                                             |
+| Dwarf-Friend (**Men**)                                                                                                                   | Dwarves are always considered to be friendlier towards you (Reaction checks are [Enhanced](/system/rules/#roll-modifiers))                  |
+| Fierce Shot (**Men**)<br>Deadly Archery (**Elves**)<br>Sure at the Mark (**Hobbits**)                                                    | *d12* when shooting an unaware rival.                                                                                                       |
+| High Destiny (**Men**)<br>Stone Hard (**Dwarves**)<br>Tough as Old Tree-Roots (**Hobbits**)<br>Endurance of the Ranger (**Númenóreans**) | When you [Recover](/system/rules/#recovery) roll *+1d6* for your [Grit](/system/characters/#grit), and sum all the dice you rolled.         |
+| The Language of the Birds (**Men**)                                                                                                      | Roll a **Resolve** [Save](/system/rules/#saves) to speak with birds.                                                                        |
+| Baruk Khazâd! (**Dwarves**)<br>Desperate Courage (**Men**)<br>Brave at a Pitch (**Hobbits**)                                             | Your **Resolve** [Critical Harm](/system/rules/#critical-harm) [Saves](/system/rules/#saves) are [Enhanced](/system/rules/#roll-modifiers). |
+| Untameable Spirit (**Dwarves**)<br>Elbereth Gilthoniel! (**Elves**)<br>Defiance (**Men**)                                                | Your **Prowess** [Critical Harm](/system/rules/#critical-harm) [Saves](/system/rules/#saves) are [Enhanced](/system/rules/#roll-modifiers). |
+| Three is Company (**Hobbits**)                                                                                                           | Your **Insight** [Critical Harm](/system/rules/#critical-harm) [Saves](/system/rules/#saves) are [Enhanced](/system/rules/#roll-modifiers). |
+| Dark for Dark Business (**Dwarves**)                                                                                                     | Your **Insight** [Saves](/system/rules/#saves) are [Enhanced](/system/rules/#roll-modifiers) when noticing things in the dark.              |
+| Durin's Way (**Dwarves**)                                                                                                                | When unarmoured, your **Armour** is $1$.                                                                                                    |
+| Against the Unseen (**Elves**)<br>Bree-Pony (**Men**)<br>Strength of Will (**Númenóreans**)                                              | The [Harm](/system/rules/#harm) you take from [Effort](/system/rules/#effort) is *1d4*.                                                     |
+| Elvish Dreams (**Elves**)                                                                                                                | You do not need to sleep, and have no **Grit** [penalty](/system/rules/#healing) when **Deprived**.                                         |
+| Memory of Ancient Days (**Elves**)<br>Ways of the Wild (**Númenóreans**)                                                                 | Your **Insight** [Saves](/system/rules/#saves) are [Enhanced](/system/rules/#roll-modifiers) when journeying.                               |
+| Art of Smoke (**Men**)                                                                                                                   | If you have pipe weed, you don't take **Grit** [penalty](/system/rules/#healing) when **Deprived**.                                         |
+| Art of Disappearing (**Hobbits**)                                                                                                        | Your **Insight** [Saves](/system/rules/#saves) are [Enhanced](/system/rules/#roll-modifiers) when trying to hide.                           |
+| Royalty Revealed (**Númenóreans**)                                                                                                       | You can choose to take damage instead of one of your allies.                                                                                |
+| Friendly and Familiar (**Men**)                                                                                                          | You automatically succeed acquiring non-combatant henchmen in a community.                                                                  |
 
 ## Conditions
 
