@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Syste
-nav_order: 10
+title: System
+nav_order: 90
+has_children: true
+
 ---
 
 # Terra System's Rhûn {#system}

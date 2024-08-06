@@ -1,5 +1,7 @@
 ---
-name: Example pc
+layout: default
+parent: Protagonists
+
 status:
 
 meta:
@@ -11,8 +13,9 @@ challenge:
 notes:
   1:
   2:
+
 ---
-### Example pc {#pc_html_tag}
+# Example pc
 
 - text and images
 - character sheet

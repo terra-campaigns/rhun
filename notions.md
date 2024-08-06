@@ -2,6 +2,11 @@
 
 kanban-plugin: board
 
+layout: default
+title: tracker
+nav_exclude: true
+search_exclude: true
+
 ---
 
 ## Inbox

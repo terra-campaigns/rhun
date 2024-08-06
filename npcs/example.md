@@ -1,5 +1,8 @@
 ---
-name: Example npc
+layout: default
+parent: People
+
+
 status:
 
 meta:
@@ -11,7 +14,8 @@ challenge:
 notes:
   1:
   2:
+
 ---
-### Example npc {#npc_html_tag}
+# Example npc
 
 text and images

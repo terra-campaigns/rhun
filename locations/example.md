@@ -1,5 +1,7 @@
 ---
-name: Example location
+layout: default
+parent: Locations
+
 status:
 
 meta:
@@ -10,7 +12,8 @@ meta:
 notes:
   1:
   2:
+
 ---
-### Example location {#location_html_tag}
+# Example location
 
 Text

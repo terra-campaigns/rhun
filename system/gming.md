@@ -1,4 +1,12 @@
-# Running Shadow of Rhûn {#run}
+---
+layout: default
+title: GMing
+nav_order: 60
+parent: System
+
+---
+
+# GMing Shadow of Rhûn
 
 **Shadow of Rhûn** is played GM-less, will all players co-operating the role of the GM.
 There is no game preparation, but after every round it is possible some world-building is required.

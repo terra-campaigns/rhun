@@ -1,5 +1,7 @@
 ---
-name: Example faction
+layout: default
+parent: Factions
+
 status:
 
 meta:
@@ -15,7 +17,8 @@ scheme:
 notes:
   1:
   2:
+
 ---
-### Example faction {#faction_html_tag}
+# Example faction
 
 Text
