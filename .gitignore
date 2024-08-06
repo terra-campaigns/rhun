@@ -1,2 +1,8 @@
+# Ignore docs files
+_gh_pages
+_site
+.ruby-version
+_temp
 
+# OS or Editor files
 .DS_Store
