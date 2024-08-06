@@ -18,37 +18,47 @@ If you are creating a new party, define a cohesive Player Characters (PC) group 
 {:toc}
 </details>
 
-## Name & Background
+## Background
 
-Choose your PC’s name and **Background**.
-Each **Background** should offer an immediate grasp of your identity and behaviours.
-A PC’s background informs their potential knowledge and skills.
-It is expected you will evolve beyond these initial **Background** towards unique narratives.
+Choose your name and [Background](/system/characters/#background), which encapsulates your **Calling** to adventure.
+Each [Background](/system/characters/#background) should offer an immediate grasp of your identity and behaviours, and inform your potential knowledge and skills.
+It is expected you will evolve beyond these initial [Background](/system/characters/#background) towards unique narratives.
 
-|                |                                     |
-| -------------- | ----------------------------------- |
-| **Clergy**     | Spiritual leaders and advisors      |
-| **Bureaucrat** | Administrators and office workers   |
-| **Trainer**    | Coaches and fitness instructors     |
-| **Agent**      | Covert operatives and enforcers     |
-| **Coder**      | Programmers and software developers |
-| **Artist**     | Creators of art and culture         |
-| **Criminal**   | Illicit operatives and thieves      |
-| **Dilettante** | Jack-of-all-trades and adventurers  |
-| **Protector**  | Bodyguards and security personnel   |
-| **Disciple**   | Devoted followers and apprentices   |
-| **Fixer**      | Repair experts and mediators        |
-| **Academic**   | Scholars and researchers            |
-| **Spy**        | Undercover agents and infiltrators  |
-| **Soldier**    | Survivalists and combat experts     |
-| **Spacer**     |                                     |
-| **Traveller**  | Explorers and navigators            |
-| **Mechanic**   | Engineers and machine operators     |
-| **Scientist**  | Researchers and innovators          |
+| *d6* | Archetype      | Description `ToR 44-46`                                     |
+| :--- | :------------- | :---------------------------------------------------------- |
+| *1*  | Captain        | Lead with trust to save the world from ruin                 |
+| *2*  | Champion       | Conquer the Shadow with strength, battling foes head-on     |
+| *3*  | Messenger      | Warn the Free Peoples against the coming danger             |
+| *4*  | Scholar        | Knowledge turns fear into curiosity, guiding you and others |
+| *5*  | Tresure Hunter | Recover lost treasures, braving dangers and fell beasts     |
+| *6*  | Warden         | Defend the defenseless, even if it means being feared       |
+
+Optionally you can expand your [Background](/system/characters/#background) with *2* **Aspects**.
+
+| *d6*  | *d6* | Aspect      | Description `ToR 67-68`                                                                               |
+| ----- | ---- | ----------- | ----------------------------------------------------------------------------------------------------- |
+| *1:2* | *1*  | Bold        | You trust your capabilities to the point that you readily place yourself in danger.                   |
+| *1:2* | *2*  | Cunning     | Your wit is sharp, and you are ready to use it to your advantage.                                     |
+| *1:2* | *3*  | Eager       | You are filled with excitement and impatience when an endeavour piques your interest.                 |
+| *1:2* | *4*  | Faithful    | You are steadfastly devoted to those ideals or individuals you have chosen to follow.                 |
+| *1:2* | *5*  | Fair        | You are considered attractive by most people, even by those not belonging to your folk.               |
+| *1:2* | *6*  | Fair-spoken | Your speech and manners are naturally pleasant and respectful, and your words rarely provoke offence. |
+| *3:4* | *1*  | Fierce      | When provoked, or when you deem it necessary, you may allow your savage side to emerge.               |
+| *3:4* | *2*  | Generous    | You give with open hands and heart, always mindful of the needs of others.                            |
+| *3:4* | *3*  | Honourable  | You believe in acting fairly and doing what is morally right.                                         |
+| *3:4* | *4*  | Inquisitive | Your curious nature is easily aroused, often by what is often not your concern.                       |
+| *3:4* | *5*  | Keen-eyed   | The keenness of your eyesight surpasses that of most folk.                                            |
+| *3:4* | *6*  | Lordly      | Your dignified bearing arouses feelings of reverence and respect in onlookers.                        |
+| *5:6* | *1*  | Merry       | Your spirit is not easily discouraged, and you can find light in the darkest of shadows.              |
+| *5:6* | *2*  | Patient     | You are slow to lose your temper and can suffer fools, delays, or even hardship without complaint.    |
+| *5:6* | *3*  | Proud       | You hold your feats and achievements, or those of your people, in high esteem.                        |
+| *5:6* | *4*  | Rustic      | Your ways are simple, some might say even uncouth.                                                    |
+| *5:6* | *5*  | Secretive   | You do not easily share your thoughts and prefer to conceal your intentions.                          |
+| *5:6* | *6*  | Stern       | You possess a severe nature and express it in your behaviour, body language, and speech.              |
 
 ## Attributes
 
-PCs have three [Attributes](/system/characters/#attributes) that are used in different circumstances (see [Saves](/system/rules/#saves)).
+You have three [Attributes](/system/characters/#attributes) that are used in different circumstances (see [Saves](/system/rules/#saves)).
 
 **Prowess**: Force, finesse & fortitude.   
 **Insight**: Intuition, wits & reflexes.   
@@ -70,10 +80,10 @@ Sometimes permanently.
 
 ## Grit
 
-[Grit](/system/characters/#grit) indicates a PC's ability to avoid getting hurt.
-It is lost when harmed & recovered after a few hours' rest.
-PC's start with *1d6* [Grit](/system/characters/#grit), which they re-roll every time they rest.
-
+[Grit](/system/characters/#grit) indicates your ability to avoid getting hurt.
+It is lost when you are harmed, and recovered after a few hours' rest.
+You start with *1d6* [Grit](/system/characters/#grit), which you re-roll every time you rest.
+[Advancements](/system/characters/#advancements) and conditions may change the number of dice you roll.
 
 ## Advancements
 

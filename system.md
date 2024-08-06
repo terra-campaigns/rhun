@@ -6,19 +6,18 @@ has_children: true
 
 ---
 
-# Terra System's Rhûn {#system}
+# Rhûn's Odd
 
-This section details how to play **Shadows of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
-The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://efsalvarenga.github.io/terraSystem/) separately.
+This section details how to play **Shadow of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using **Terra Odd v0.7.0**.
+Terra Odd is self contained in this section, and will not require reading the [SRD](https://terra-campaigns.github.io/terraOdd/) separately.
 
-#### Taxonomy {-}
+#### Taxonomy
 
 - "You"/"Your" are used to refer to players and their characters, interchangeably.
 - "Challenge" is used to represent anything that is antagonistic to you, be that an NPC, the environment, etc.
-- Meta game concepts, stats and currencies are marked in *italic*.
 - Book references are marked in `code`, they might be accompanied by page ranges.
 
-#### Books {-}
+#### Books
 
 | Reference | Book and closed link                                                                            |
 | --------- | ----------------------------------------------------------------------------------------------- |
@@ -26,10 +25,10 @@ The **Terran Engine** is self contained in this section, and will not require re
 
 ## Characters
 
-1. With the other players, define a cohesive group concept.
-2. Always start with a Name and *Archetype*.
-3. Roll for *Attributes* and assign points.
-4. Roll for *Grit* and *Ego.*
+
+
+
+
 5. Choose your Race and an *Advancement.*
 6. Make an image.
 
@@ -37,95 +36,12 @@ A text version of the character sheet is available here.
 
 ### Archetypes
 
-You are defined by an *Archetype*, which encapsulates your **Calling** to adventure`.
-Each *Archetype* should offer an immediate grasp of your identity and behaviours.
-It is expected you will evolve beyond these initial *Archetypes* towards unique narratives.
-
-| d6  | Archetype      | Description `ToR 44-46`                                     | Favourite *Attributes* |
-| :-- | :------------- | :---------------------------------------------------------- | :--------------------- |
-| $1$ | Captain        | Lead with trust to save the world from ruin                 | Exertion, Influence    |
-| $2$ | Champion       | Conquer the Shadow with strength, battling foes head-on     | Exertion, Finesse      |
-| $3$ | Messenger      | Warn the Free Peoples against the coming danger             | Intuition, Reason      |
-| $4$ | Scholar        | Knowledge turns fear into curiosity, guiding you and others | Reason, Psyche         |
-| $5$ | Tresure Hunter | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
-| $6$ | Warden         | Defend the defenseless, even if it means being feared       | Psyche, Influence      |
-
-Optionally you can expand your *Archetype* with $2$ **Aspects**.
-
-| d6    | d6  | Aspect      | Description `ToR 67-68`                                                                               |
-| ----- | --- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| $1:2$ | $1$ | Bold        | You trust your capabilities to the point that you readily place yourself in danger.                   |
-| $1:2$ | $2$ | Cunning     | Your wit is sharp, and you are ready to use it to your advantage.                                     |
-| $1:2$ | $3$ | Eager       | You are filled with excitement and impatience when an endeavour piques your interest.                 |
-| $1:2$ | $4$ | Faithful    | You are steadfastly devoted to those ideals or individuals you have chosen to follow.                 |
-| $1:2$ | $5$ | Fair        | You are considered attractive by most people, even by those not belonging to your folk.               |
-| $1:2$ | $6$ | Fair-spoken | Your speech and manners are naturally pleasant and respectful, and your words rarely provoke offence. |
-| $3:4$ | $1$ | Fierce      | When provoked, or when you deem it necessary, you may allow your savage side to emerge.               |
-| $3:4$ | $2$ | Generous    | You give with open hands and heart, always mindful of the needs of others.                            |
-| $3:4$ | $3$ | Honourable  | You believe in acting fairly and doing what is morally right.                                         |
-| $3:4$ | $4$ | Inquisitive | Your curious nature is easily aroused, often by what is often not your concern.                       |
-| $3:4$ | $5$ | Keen-eyed   | The keenness of your eyesight surpasses that of most folk.                                            |
-| $3:4$ | $6$ | Lordly      | Your dignified bearing arouses feelings of reverence and respect in onlookers.                        |
-| $5:6$ | $1$ | Merry       | Your spirit is not easily discouraged, and you can find light in the darkest of shadows.              |
-| $5:6$ | $2$ | Patient     | You are slow to lose your temper and can suffer fools, delays, or even hardship without complaint.    |
-| $5:6$ | $3$ | Proud       | You hold your feats and achievements, or those of your people, in high esteem.                        |
-| $5:6$ | $4$ | Rustic      | Your ways are simple, some might say even uncouth.                                                    |
-| $5:6$ | $5$ | Secretive   | You do not easily share your thoughts and prefer to conceal your intentions.                          |
-| $5:6$ | $6$ | Stern       | You possess a severe nature and express it in your behaviour, body language, and speech.              |
 
 ### Attributes
 
-There are $6$ *Attributes* that you can use to overcome obstacles.
 
-- **Intuition**: track targets, understand creatures, care, survive.
-- **Reason**: concentrate, think abstractly, build knowledge.
-- **Finesse**: dextrous manipulation, precision, subtle misdirection.
-- **Exertion**: apply physical force and power, melee.
-- **Psyche**: get in the flow and tune the arcane or technology.
-- **Influence**: compel obedience, socialise, influence.
-
-Each *Attribute* has a rating (from $0$ to $4$) that determine how many **Light Dice** to roll when performing *Risky Actions.*
-On the character sheet, their ratings are read horizontally.
-
-*Saves* are groupings of two *Attributes* each.
-
-- **Evasion** groups **Intuition** and **Reason**.
-- **Fortitude** groups **Finesse** and **Exertion**.
-- **Resolve** groups **Psyche** and **Influence**
-
-*Saves* also have ratings (from $0$ to $2$) that determine how many dice to roll in a *Reaction* situation.
-On the character sheet, their ratings are read vertically.
-
-#### Determine Attributes  {-}
-
-For each *Save* grouping (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many *Attribute* points you have to distribute for each.
-
-|                    | $1:3$ | $4:5$ | $6$ |
-| :----------------- | :---: | :---: | :-: |
-| *Attribute* points |  $1$  |  $2$  | $3$ |
-
-Finally, choose a Favourite *Attribute* from your *Archetype* and assign it an additional point.
-
-In certain conditions, you might permanently lose *Attribute* points, this is discussed in other sections.
-
-#### Example: Scuff's Attributes {-}
-
-![](https://i.imgur.com/bnKfumi.png)
-
-
-Scuff has an **Attunement** *Attribute* rating of $3$ (read horizontally).
-They roll $3d$ when performing a Risky Action related to **Attunement**.
-They also have **Influence** $0$ (horizontally), so they roll $0d$ (i.e. no chance if no advantage is found).
-If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve** *Save* rating (read vertically).
 
 ### Grit & Ego
-
-> *"It's about how hard you can get hit and keep moving forward"*
-> (Rocky Balboa)
-
-While *Grit* represents your disposition, *Ego* represents your resilience to keep pushing.
-Roll $1d$ to determine your *Grit* and *Ego.*
-Advancements and conditions may change the number of dice you roll.
 
 #### Trauma {-}
 
