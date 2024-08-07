@@ -54,7 +54,6 @@ If unsure how many targets can be affected, roll the related damage die for a re
 #### Initiative & Retreat
 
 Whenever turn order is uncertain, the PCs should make an **Wits** save to see if they go before their enemies.
-
 **Retreating** from a dangerous situation always requires a successful **Wits** save, as well as a safe destination to run to.
 
 ## Roll Modifiers
