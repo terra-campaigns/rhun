@@ -33,25 +33,25 @@ Expand For Example
 
 ## Combat
 
-### Attacking
+#### Attacking
 
 The attacker rolls their weapon die.
 The weapon die is an exploding die: if you roll the highest value, roll again and sum the results.
 If the result is equal to or under the appropriate 
 **Attribute**, subtract the result from the target's **Armour**, then deal the remaining total as Harm.
 
-### Multiple Attacks
+#### Multiple Attacks
 
 If **multiple attackers** target the same foe, roll all attack dice and keep the single highest result.
 If attacking with **two weapons** at the same time, roll both dice dice and keep the highest.
 
-### Blast
+#### Blast
 
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character.
 Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
 If unsure how many targets can be affected, roll the related damage die for a result.
 
-### Initiative & Retreat
+#### Initiative & Retreat
 
 Whenever turn order is uncertain, the PCs should make an **Wits** save to see if they go before their enemies.
 
