@@ -1,10 +1,18 @@
-# Shadows of Rhûn
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+
+---
+
+# Shadow of Rhûn
 
 Context material for the RPG campaign Shadows of Rhûn 
 
 # Contribute
 
-Clone this repo, or edit a branch directly from GitHub's webapp.
+Clone this repo, or edit a branch directly from GitHub's web app.
 Look at the list of issues, and choose one to begin with.
 
 Do not make changes on `main`.
@@ -18,8 +26,22 @@ This is better for versioning.
 ## Toolset
 
 - Obsidian is a good (and free) markdown editor.
-- If you dont have something like Obsidian Sync, edits on the fly can also be done using GitHub's webapp.
+- If you don't have something like Obsidian Sync, edits on the fly can also be done using GitHub's web app.
 - When adding images, do not add them directly to the repository, to keep it light. Use Imgur and html links instead. Obsidian has a [plugin](https://github.com/gavvvr/obsidian-imgur-plugin) that does that for you.
+
+## Localhosting the website
+
+If you'd like to build the website locally on your machine, before making pull requests to `main`, follow as below:
+
+- install [jekyll on mac](https://jekyllrb.com/docs/installation/macos/)
+- the next commands should be run on the repo folder:
+	- point the repo folder to the new version of ruby: `echo '3.1.3' >> .ruby-version`
+	- install gems: `gem install bundler jekyll`
+	- for some reason I also have to do this: `bundle install`
+	- you might need to also run: `bundle add webrick`
+	- serve the site on localhost: `bundle exec jekyll serve`
+- browse http://localhost:4000
+- you can make changes on files and the localhost is reflected quickly without any new commands
 
 ### Tips & tricks
 
@@ -27,19 +49,8 @@ If you need to add text that does not get rendered into html, make a new paragra
 
 [This is a comment that will be hidden.]: # 
 
-## Sandbox
+## Worldbuilding
 
-The game will use sandbox procedural generation.
-The following books have good procedures for the theme.
+Worldbuilding processes are defined in the run file.
 
-- Worlds Without Number (closed access [link](https://drive.google.com/open?id=163ApcuSI2q4oPTYLFyYn6Jxa1F-hS2gF&usp=drive_fs))
-	- Regional geography, polities and history
-	- Ruins and dungeons
-	- Wilderness
-	- Social groups, communities and courts
-- Atlas of Latter Earth (closed access [link](https://drive.google.com/open?id=1bOrZFAV3zSfMZnHomFQgXuExUyV44hDt&usp=drive_fs))
-	- People aspirations, problems and schemes
-- Silent Legions (closed access [link](https://drive.google.com/open?id=1CexCpDNKNSMNnkGgDNrVne1gG-03L5dm&usp=drive_fs))
-	- Powerful creatures of darkness
-	- Cults 
 

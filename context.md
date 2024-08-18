@@ -1,6 +1,13 @@
-# (PART) Context {-}
+---
+layout: default
+title: Context
+nav_order: 10
 
-# The World {#world}
+---
+
+# Context
+
+# The World
 
 The world is a fork of Tolkien's **Middle Earth**. Set in the **4th Age**, centuries after the rule of King Elessar in Gondor.
 
@@ -20,7 +27,7 @@ However, this peace may not fully extend to all regions, especially those far fr
 After the Elven migration, there is hardly Elves in Middle Earth.
 Some Half Elves still exist.
 
-## Ryxgla Gruk'mog {#grukmog}
+## Ryxgla Gruk'mog
 
 - **Names**: The Watcher in the Deep, Ryxgla Mb'hoth was the name given to this ancient evil. Among the orcs, it is known as Ryxgla Gruk'mog, a name derived from the words "Gruk" (knowledge and mind) and "mog" (greatness).
 - **Origin**: Ryxgla Mb'hoth, the ancient evil, is an ancient entity worshipped by the early men of the east. It resided in the deep caves of the Ryxgla Mountains, revered as a god.
@@ -28,7 +35,7 @@ Some Half Elves still exist.
 - **History**: Once worshipped, Ryxgla Gruk'mog was abandoned after wars drove out its followers. This abandonment filled it with a deep hatred for the invaders, particularly the Elves and Men who settled the land.
 - **Legacy**: In the northern Ryxgla Mountains, a cave bears the inscription of Alegorn's sacrifice, a reminder of the entity's past banishment but not its complete destruction.
 
-# Sea of Rhûn {#seaofrhun}
+# Sea of Rhûn
 
 The Sea of [Rhûn](https://lotr.fandom.com/wiki/Sea_of_Rh%C3%BBn) was located in the west of the land of Rhûn, which was east of Rhovanion and north of Mordor.
 The sea also contained a wooded island within the Sea.

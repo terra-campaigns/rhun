@@ -1,3 +1,11 @@
+---
+layout: default
+title: System
+nav_order: 90
+has_children: true
+
+---
+
 # Terra System's Rhûn {#system}
 
 This section details how to play **Shadows of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
