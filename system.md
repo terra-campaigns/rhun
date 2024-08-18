@@ -6,19 +6,19 @@ has_children: true
 
 ---
 
-# Terra System's Rhûn {#system}
+# Terra System's Rhûn
 
 This section details how to play **Shadows of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
 The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://efsalvarenga.github.io/terraSystem/) separately.
 
-#### Taxonomy {-}
+#### Taxonomy
 
 - "You"/"Your" are used to refer to players and their characters, interchangeably.
 - "Challenge" is used to represent anything that is antagonistic to you, be that an NPC, the environment, etc.
 - Meta game concepts, stats and currencies are marked in *italic*.
 - Book references are marked in `code`, they might be accompanied by page ranges.
 
-#### Books {-}
+#### Books
 
 | Reference | Book and closed link                                                                            |
 | --------- | ----------------------------------------------------------------------------------------------- |
@@ -96,7 +96,7 @@ On the character sheet, their ratings are read horizontally.
 *Saves* also have ratings (from $0$ to $2$) that determine how many dice to roll in a *Reaction* situation.
 On the character sheet, their ratings are read vertically.
 
-#### Determine Attributes  {-}
+#### Determine Attributes
 
 For each *Save* grouping (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many *Attribute* points you have to distribute for each.
 
@@ -108,7 +108,7 @@ Finally, choose a Favourite *Attribute* from your *Archetype* and assign it an a
 
 In certain conditions, you might permanently lose *Attribute* points, this is discussed in other sections.
 
-#### Example: Scuff's Attributes {-}
+#### Example: Scuff's Attributes
 
 ![](https://i.imgur.com/bnKfumi.png)
 
@@ -127,7 +127,7 @@ While *Grit* represents your disposition, *Ego* represents your resilience to ke
 Roll $1d$ to determine your *Grit* and *Ego.*
 Advancements and conditions may change the number of dice you roll.
 
-#### Trauma {-}
+#### Trauma
 
 You lose *Grit* when you are harmed.
 When your *Grit* reaches $0$ you start marking *Trauma* tracks.
@@ -154,7 +154,7 @@ If you did not rest well you have $-1d$ to roll for *Grit*.
 Each *Wound* track recovers through appropriate care and a week's rest.
 A *Malaise* never recovers.
 
-#### Pushing yourself {-}
+#### Pushing yourself
 
 You spend *Ego* when you call upon the **Ainulindale** and push beyond yourself in *Risky Actions*.
 However, if your *Ego* ever reaches $0$ you are lost to the **Shadow**.
@@ -165,7 +165,7 @@ Doing so causes Dissonance in the **Ainulindale** and brings you close to the **
 For that you gain a *Condition*.
 With the GM, determine the mechanical effects and how to introduce your *Condition* into the narrative.
 
-#### Example: Scuff's scuffs {-}
+#### Example: Scuff's scuffs
 
 ![](https://i.imgur.com/IYdZoZh.png)
 
