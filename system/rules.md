@@ -3,6 +3,7 @@ layout: default
 title: Rules
 nav_order: 10
 parent: System
+
 ---
 
 # Rules
