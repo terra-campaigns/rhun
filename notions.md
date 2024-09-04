@@ -3,7 +3,7 @@
 kanban-plugin: board
 
 layout: default
-title: tracker
+title: Notions
 nav_exclude: true
 search_exclude: true
 
