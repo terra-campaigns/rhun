@@ -9,7 +9,7 @@ nav_order: 10
 
 # The World
 
-The world is a fork of Tolkien's **Middle Earth**. Set in the **4th Age**, centuries after the rule of King Elessar in Gondor.
+The world is a fork of Tolkien's **Middle Earth**. Set in year 390 in the **4th Age**, centuries [after the rule of King Elessar](https://lotr.fandom.com/wiki/Aragorn_II#Death_and_End_of_Reign) in Gondor.
 
 ![](https://i.imgur.com/xRPrU40.png)
 
@@ -57,22 +57,22 @@ The [Kine of Araw](https://lotr.fandom.com/wiki/Kine_of_Araw "Kine of Araw"), w
 
 **Major nations or groups**
 
-- **Valishar** (Triumph & Justice): Under the banner of Gondor/Rohan.
-	- Valishar has been flourishing in the Gardens of Dorwinion since the defeat of Sauron.
+- **Dorwinioners** (Triumph & Justice): Under the banner of Gondor/Rohan.
+	- Dorwinion has been flourishing in the Gardens of Dorwinion since the defeat of Sauron.
 	- Gondor established institutions focused on justice and righteousness, such that the society’s laws and values are fairly and even-handedly enforced.
 	- **Location**: Gardens of Dorwinion, in the West of the region
 	- **Historical events**:
-		- The group adopted many customs from their neighbours and many exiled Easterlings joined the group.
+		- The group adopted many customs from their neighbours (Vashnars) and many exiled Easterlings joined the group.
 		- The group’s former ruling dynasty was recently replaced, through intrigue.
 		- New institutions and groups seeking to exploit the rewards of the newfound peace.
-		- Righteous crusaders for the cause expand eastbound.
+		- Righteous crusaders for the cause expand east and south bound.
 - **Lôthregars** (Exhaustion / Ignorance): Strong influence from the dark lords, mostly bad clans.
 	- The region was depleted by Sauron's armies: spent rivers, barren fields, cut-over forests, and shorn hillsides.
 	- The sparse nation that remained is an ignorant one, still believing in Sauron's return.
 	- **Location**: Inhabit the South of the region.
 	- **Historical events**: 
 		- The region is full of vast military estates, where most of Easterlings military prowess was developed. Now all lay in abandon.
-		- A vast resource of Morgûl Tar was recently discovered in a collapsed bunker, and they have been trading it with other peoples.
+		- A vast resource of Morgûl Tar was recently discovered in a collapsed bunker, and they have been trading it with other peoples through the Sea of Rhûn trading route.
 		- They’re suspected of backing Kazadorns assassinations.
 - **Vashnars** (Enlightenment / Precarity): Hardly any influence from the dark lords left, some are good and were good men. They were mostly inspired by the Blue Wizards.
 	- A genuine love of knowledge imbues the nation, such that academies and schools have an important role in social and political life, and a good education is considered a hallmark of gentility.
@@ -82,15 +82,8 @@ The [Kine of Araw](https://lotr.fandom.com/wiki/Kine_of_Araw "Kine of Araw"), w
 		- Vashnars conceived a strong distaste for Kazadorns people and their customs.
 		- Soldiers or guardsmen in service to the ruler ended up becoming the ruler’s electors or deposers.
 		- Luxuriance has left the nation’s coffers bare with the growing migrant population.
-		- The king married a descendent of Valishar.
-- **Kazadorns** (Oppression / Violence): Still have lingering influence from the dark lords, some are good and were good men. Made up of a multitude of tribes, with one warlord elected though challenge.
-	- Tribes are cruelly oppressed by other tribes. Intra tribe oppression is accepted as a commonplace.
-	- The nation is a bloody one, with human life held cheap and death a commonplace. This may be the result of incessant warfare.
-	- **Location**: Inhabit the entire East of the region.
-	- **Historical events**:
-		- Warlords are always embroiled in assassinations, petty wars, and mutual struggle
-		- A trade tribe from southern Kazadorn is allied with the Lôthregars, and are winning privileges. 
-		- An outside power is backing internal strife.
+		- The king married a descendent of Dorwinion.
+- **Kazadorns**: See [Kazadorns](#kazadorns)
 - **Blacklocks** (Poverty / Unity): Eastern Dwarves (Blacklocks) that migrated to the West, and then came back and reestablished in the Ryxgla mountains
 	- The nation is poor. Even aristocrats might not be assured of the necessary staples of life, or basic resources might be constantly threatened by the depths of the mountain, warfare from the East and diseases.
 	- Powers and groups within the nation are highly united in their goals and sense of fellowship.
@@ -108,4 +101,30 @@ The [Kine of Araw](https://lotr.fandom.com/wiki/Kine_of_Araw "Kine of Araw"), w
 		- A powerful new religion arose among the group, the followers of Ryxgla Gruk'mog.
 
 
+# Kazadorns {#kazadorns}
+
+|                           |                                                                                                                                             |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Location**              | East of the [Sea of Rhûn](#seaofrhun)                                                                                                       |
+| **Inspiration**           | [Eurasian Steppes](https://en.wikipedia.org/wiki/Eurasian_Steppe) & [Silk Road](https://en.wikipedia.org/wiki/Silk_Road)                    |
+| **Linguistic touchstone** | [Mongolian](https://www.fantasynamegenerators.com/mongolian-names.php) and [Kazakh](https://www.fantasynamegenerators.com/kazakh-names.php) |
+
+
+Still have lingering influence from the dark lords, some are good and were good men. Made up of a multitude of tribes, with one warlord elected though challenge.
+
+Tribes are cruelly oppressed by other tribes. Intra tribe oppression is accepted as a commonplace.
+The nation is a bloody one, with human life held cheap and death a commonplace. This may be the result of incessant warfare.
+
+## Historical events
+
+|         |                                                                                                                                                  |
+| ------: | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   0 FoA | Sauron is vanquished and the One Ring destroyed.                                                                                                 |
+| 139 FoA | Maximum expansion of Gondor and Rohan's alliance up to the Sea of Rhûn. Most orcs in the region are eliminated.                                  |
+| 160 FoA | Easterlings encroached by Gondor and Far East nomads. New tribes are formed.                                                                     |
+| 200 FoA | New tribes foster trade. Internal strife for control between new tribes and followers of Sauron. Remaining orcs are pushed to the deeps.         |
+| 250 FoA | Nomad clans reach economical (and effective) control through trading ties with East. Region is now known as Kazadorn.                            |
+| 289 FoA | Tar resources are found in Lôthregar. Economic and diplomatic ties are stablished, including operating the trade route south of the Sea of Rhûn. |
+| 346 FoA | Through assassinations and cunning, formal Sauron allied lords became rulers of north Kazadorn. Oppressed tribes migrate West to Vashnars.       |
+| 370 FoA | Lôthregar clans marry into southern Kazadorn tribes and start to culturally influence.                                                           |
 
