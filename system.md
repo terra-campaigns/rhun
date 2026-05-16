@@ -8,7 +8,7 @@ has_children: true
 
 # Terra System's Rhûn
 
-This section details how to play **Shadows of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
+This section details how to play **Shadow of Rhûn**, a [The One Ring](https://freeleaguepublishing.com/games/the-one-ring/) inspired *Play by Post* RPG using a forked version of the **Terran Engine v0.6.2**.
 The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://efsalvarenga.github.io/terraSystem/) separately.
 
 #### Taxonomy
@@ -35,6 +35,58 @@ The **Terran Engine** is self contained in this section, and will not require re
 
 A text version of the character sheet is available here.
 
+### Group concept
+
+Roll once or twice on the group concept table to draw inspiration for the group.
+
+| d20 | Concept                         | **Description**                                                                                                                         |
+| --- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Wandering Kheshigs              | A band of elite mercenaries, skilled horsemen, and warriors, offering their services to the highest bidder.                             |
+| 2   | Wind Riders                     | Free-spirited investigators who roam the lands, unraveling mysteries and seeking justice under the open skies.                          |
+| 3   | Inquisitors of the Golden Horde | Official investigators serving the Great Khanate, known for their unwavering loyalty and keen insight.                                  |
+| 4   | Khan's Whisperers               | Trusted advisors to the royal court, wielding wisdom and influence over the affairs of the realm.                                       |
+| 5   | Shadow Clan                     | A secretive thieves' guild, masters of stealth and deception, hidden within the city's underbelly.                                      |
+| 6   | Order of the Hidden Path        | A clandestine society, weaving unseen webs of power and influence, shaping events from the shadows.                                     |
+| 7   | Clerics of Eternal Sky          | Religious investigators devoted to the celestial gods, seeking divine guidance to uncover hidden truths.                                |
+| 8   | Fellowship of the Steppes       | Adventurers bound by honor and camaraderie, exploring untamed lands and ancient ruins in search of glory and treasure.                  |
+| 9   | Silk Road Inspectors            | Business investigators navigating the intricate trade routes, ensuring fairness and integrity in commerce.                              |
+| 10  | Silent Talons                   | A feared assassins' guild, executing precise strikes with deadly efficiency, leaving no trace behind.                                   |
+| 11  | Enclave of the Mystic Nomads    | A school of arcane arts where wandering wizards gather to study the ancient secrets of magic and lore.                                  |
+| 12  | Disciples of the Eternal Flame  | Monastic students dedicated to mastering the art of combat and spiritual enlightenment, following the path of the eternal flame.        |
+| 13  | Arena of the Iron Horde         | A gladiator school where fierce warriors are trained in the brutal art of combat, fighting for honor and glory.                         |
+| 14  | Steppe Wardens                  | Military specialists known for their tactical brilliance and unmatched horsemanship, defending the realm against all threats.           |
+| 15  | Eyes of the Khan                | A vast spy network gathering intelligence and securing the realm's secrets with unmatched precision and cunning.                        |
+| 16  | Riders of Justice               | A constabulary force of mounted patrols, maintaining order and delivering swift justice across the lands.                               |
+| 17  | Enchanted Companions            | Magically bound servants sworn to serve their masters with loyalty and enchanted prowess.                                               |
+| 18  | Voices of the Ancestors         | Individuals who claim divine inspiration, guided by the spirits of their forebears to fulfill sacred missions.                          |
+| 19  | Guardians of the Grasslands     | Protectors of the common folk, valiant defenders of the steppe's people and their way of life, standing against tyranny and oppression. |
+| 20  | Seekers of Blood Debt           | A group dedicated to avenging wrongs and settling ancient feuds, driven by honor and the desire for retribution.                        |
+
+To further enhance group cohesion, inter group relationships can be rolled on the relationship table.
+
+| d20 | Relationship          |
+| --- | --------------------- |
+| 1   | Sibling of            |
+| 2   | Saved by              |
+| 3   | Served with           |
+| 4   | Protected by          |
+| 5   | Adventured with       |
+| 6   | Friendly rival of     |
+| 7   | Childhood friend of   |
+| 8   | Magically bound to    |
+| 9   | Survived with         |
+| 10  | Escaped with          |
+| 11  | Apprentice of         |
+| 12  | Acolyte of            |
+| 13  | Idolizes              |
+| 14  | Drinking buddies with |
+| 15  | Business associate of |
+| 16  | Lost a bet to         |
+| 17  | Indebted to           |
+| 18  | Trained by            |
+| 19  | Dueling partner of    |
+| 20  | On the run with       |
+
 ### Archetypes
 
 You are defined by an *Archetype*, which encapsulates your **Calling** to adventure`.
@@ -46,11 +98,11 @@ It is expected you will evolve beyond these initial *Archetypes* towards unique 
 | $1$ | Captain        | Lead with trust to save the world from ruin                 | Exertion, Influence    |
 | $2$ | Champion       | Conquer the Shadow with strength, battling foes head-on     | Exertion, Finesse      |
 | $3$ | Messenger      | Warn the Free Peoples against the coming danger             | Intuition, Reason      |
-| $4$ | Scholar        | Knowledge turns fear into curiosity, guiding you and others | Reason, Psyche         |
+| $4$ | Scholar        | Knowledge turns fear into curiosity, guiding you and others | Reason, Attunement     |
 | $5$ | Tresure Hunter | Recover lost treasures, braving dangers and fell beasts     | Finesse, Intuition     |
-| $6$ | Warden         | Defend the defenseless, even if it means being feared       | Psyche, Influence      |
+| $6$ | Warden         | Defend the defenseless, even if it means being feared       | Attunement, Influence  |
 
-Optionally you can expand your *Archetype* with $2$ **Aspects**.
+Optionally you can expand your *Archetype* with up to $2$ narrative **Aspects**.
 
 | d6    | d6  | Aspect      | Description `ToR 67-68`                                                                               |
 | ----- | --- | ----------- | ----------------------------------------------------------------------------------------------------- |
@@ -81,24 +133,24 @@ There are $6$ *Attributes* that you can use to overcome obstacles.
 - **Reason**: concentrate, think abstractly, build knowledge.
 - **Finesse**: dextrous manipulation, precision, subtle misdirection.
 - **Exertion**: apply physical force and power, melee.
-- **Psyche**: get in the flow and tune the arcane or technology.
+- **Attunement**: get in the flow and tune the arcane or technology.
 - **Influence**: compel obedience, socialise, influence.
 
 Each *Attribute* has a rating (from $0$ to $4$) that determine how many **Light Dice** to roll when performing *Risky Actions.*
 On the character sheet, their ratings are read horizontally.
 
-*Saves* are groupings of two *Attributes* each.
+*Saves* are groupings of $2$ *Attributes* each.
 
-- **Evasion** groups **Intuition** and **Reason**.
-- **Fortitude** groups **Finesse** and **Exertion**.
-- **Resolve** groups **Psyche** and **Influence**
+- **Insight** groups **Intuition** and **Reason**.
+- **Prowess** groups **Finesse** and **Exertion**.
+- **Resolve** groups **Attunement** and **Influence**
 
 *Saves* also have ratings (from $0$ to $2$) that determine how many dice to roll in a *Reaction* situation.
 On the character sheet, their ratings are read vertically.
 
 #### Determine Attributes
 
-For each *Save* grouping (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many *Attribute* points you have to distribute for each.
+For each *Save* (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many *Attribute* points you have to distribute for each.
 
 |                    | $1:3$ | $4:5$ | $6$ |
 | :----------------- | :---: | :---: | :-: |
@@ -115,7 +167,7 @@ In certain conditions, you might permanently lose *Attribute* points, this is di
 
 Scuff has an **Attunement** *Attribute* rating of $3$ (read horizontally).
 They roll $3d$ when performing a Risky Action related to **Attunement**.
-They also have **Influence** $0$ (horizontally), so they roll $0d$ (i.e. no chance if no advantage is found).
+They also have **Influence** $0$ (horizontally), so they roll $0d$ (i.e. they have no chance, unless some advantage is found).
 If their **Resolve** is challenged, they may roll a *Reaction* with $1d$, based on their **Resolve** *Save* rating (read vertically).
 
 ### Grit & Ego
@@ -172,7 +224,7 @@ With the GM, determine the mechanical effects and how to introduce your *Conditi
 
 Scuff has $1d$ for both *Grit* and *Ego* (usual for early characters).
 They have seen some harm, having lost $3$ *Grit* (from $5$ to $2$) and taken a **Hazed** wound.
-This means that any time they roll related to **Insight** (**Intuition** or **Reason** for *Risky Actions*, or **Evasion** *Reaction*), they take $-1d$.
+This means that any time they roll related to **Insight** (*Risky Actions* or *Reaction*), they take $-1d$.
 
 Scuff also risked their *Ego* a few times, and took a **Condition** to reset it (from 2 to 4).
 Finally, they have gotten a malaise at some point, having reduced their **Exertion** *Attribute* rating because of a weakened lower back.
@@ -202,7 +254,7 @@ Whenever it is narratively coherent, you may spend *Experience* equal to $2\time
 | Dwarf-Friend (**Men**)                                                                                                                   | Dwarves are always considered to be friendlier towards you ($+1d$)                          |
 | Fierce Shot (**Men**)<br>Deadly Archery (**Elves**)<br>Sure at the Mark (**Hobbits**)                                                    | $+2d$ when shooting an unaware rival.                                                       |
 | High Destiny (**Men**)<br>Stone Hard (**Dwarves**)<br>Tough as Old Tree-Roots (**Hobbits**)<br>Endurance of the Ranger (**Númenóreans**) | When you reset your *Grit*, roll $+1d$ and sum all the dice you rolled.                     |
-| The Language of the Birds (**Men**)                                                                                                      | Roll Psyche to speak with birds.                                                            |
+| The Language of the Birds (**Men**)                                                                                                      | Roll Attunement to speak with birds.                                                        |
 | Baruk Khazâd! (**Dwarves**)<br>Desperate Courage (**Men**)<br>Brave at a Pitch (**Hobbits**)                                             | $+1d$ whenever you roll a **Resolve** *Save*.                                               |
 | Dark for Dark Business (**Dwarves**)                                                                                                     | You have $+1d$ on noticing things in the dark.                                              |
 | Durin's Way (**Dwarves**)                                                                                                                | When unarmoured, your **Armour** is $1$.                                                    |
